@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: Curriculum Vitae
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# Mohammad Mahmudul Hasan, PhD
-
 ---
 
 ## Education
@@ -18,22 +16,23 @@ redirect_from:
 **Norwegian University of Science and Technology (NTNU), Norway**  
 *Doctor of Philosophy in Information and Communication Technology*  
 Faculty of Engineering  
-*2022 – Present*
+<span style="float: right;">2022 – Present</span>
 
 **Brno University of Technology (VUT), Czech Republic**  
 *Visiting Researcher in Design and Process Engineering*  
 Department of Automation  
-*2024 – 2025*
+<span style="float: right;">2024 – 2025</span>
 
 **KIIT University, India**  
 *Master of Technology in Communication Systems Engineering*  
 Department of Electronics and Telecommunication Engineering  
-*2010 – 2012*
+<span style="float: right;">2010 – 2012</span>
 
 **KIIT University, India**  
 *Bachelor of Technology in Electronics and Telecommunication Engineering*  
 Department of Electronics and Telecommunication Engineering  
-*2006 – 2010*
+<span style="float: right;">2006 – 2010</span>
+
 
 ---
 
