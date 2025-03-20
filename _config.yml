@@ -13,7 +13,7 @@ title                    : "Mohammad Mahmudul Hasan, PhD"
 title_separator          : "-"
 name                     : &name "Mohammad Mahmudul Hasan"
 description              : &description "personal description"
-url                      : https://dearmahmud.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+URL                      : "https://dearmahmud.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dearmahmud/dearmahmud.github.io"
 
@@ -23,13 +23,13 @@ repository               : "dearmahmud/dearmahmud.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Mohammad Mahmudul Hasan, PhD"
+  pronouns         : "he/him"
+  bio              : "Wireless communication, machine learning"
+  location         : "Norway"
+  employer         : "NTNU"
+  uri              : "https://www.ntnu.edu/employees/mohammad.m.hasan"
+  email            : "mohammad.m.hasan@ntnu.no" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
