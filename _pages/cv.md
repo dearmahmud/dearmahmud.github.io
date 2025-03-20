@@ -13,25 +13,34 @@ redirect_from:
 
 ## Education
 
-**Norwegian University of Science and Technology (NTNU), Norway**  
+<div style="display: flex; justify-content: space-between;">
+  <span><strong>Norwegian University of Science and Technology (NTNU), Norway</strong></span>
+  <span>2022 – Present</span>
+</div>  
 *Doctor of Philosophy in Information and Communication Technology*  
 Faculty of Engineering  
-<span style="float: right;">2022 – Present</span>
 
-**Brno University of Technology (VUT), Czech Republic**  
+<div style="display: flex; justify-content: space-between;">
+  <span><strong>Brno University of Technology (VUT), Czech Republic</strong></span>
+  <span>2024 – 2025</span>
+</div>  
 *Visiting Researcher in Design and Process Engineering*  
 Department of Automation  
-<span style="float: right;">2024 – 2025</span>
 
-**KIIT University, India**  
+<div style="display: flex; justify-content: space-between;">
+  <span><strong>KIIT University, India</strong></span>
+  <span>2010 – 2012</span>
+</div>  
 *Master of Technology in Communication Systems Engineering*  
 Department of Electronics and Telecommunication Engineering  
-<span style="float: right;">2010 – 2012</span>
 
-**KIIT University, India**  
+<div style="display: flex; justify-content: space-between;">
+  <span><strong>KIIT University, India</strong></span>
+  <span>2006 – 2010</span>
+</div>  
 *Bachelor of Technology in Electronics and Telecommunication Engineering*  
 Department of Electronics and Telecommunication Engineering  
-<span style="float: right;">2006 – 2010</span>
+
 
 
 ---
