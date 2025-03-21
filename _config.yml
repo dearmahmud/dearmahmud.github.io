@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Mohammad Mahmudul Hasan, PhD"
+title                    : "Mohammad Mahmudul Hasan, PhD (Mahmud)"
 title_separator          : "-"
 name                     : &name "Mohammad Mahmudul Hasan (Mahmud)"
 description              : &description "personal description"
