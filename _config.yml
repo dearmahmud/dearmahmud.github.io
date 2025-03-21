@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Mohammad Mahmudul Hasan, PhD (Mahmud)"
+title                    : "Mohammad Mahmudul Hasan, PhD"
 title_separator          : "-"
-name                     : &name "Mohammad Mahmudul Hasan (Mahmud)"
+name                     : &name "Mohammad Mahmudul Hasan"
 description              : &description "personal description"
 URL                      : "https://dearmahmud.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -33,7 +33,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=8ZDDF8MAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=8ZDDF8MAAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-5651-5535"
   semantic         : # URL
