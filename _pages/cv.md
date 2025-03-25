@@ -388,4 +388,11 @@ VUT, Brno 612 00, Czech Republic
 Email: [pavel.skrabanek@vut.cz](mailto:pavel.skrabanek@vut.cz)  
 Phone: (+420) 541142299
 
+**Dr. Alok Mishra**  
+*Distinguished Professor*  
+Professor, Faculty of Engineering,  
+NTNU, Gjøvik 2815, Norway  
+Email: [alok.mishra@ntnu.no](mailto:alok.mishra@ntnu.no)  
+Phone: (+47) 46665761
+
 ---
