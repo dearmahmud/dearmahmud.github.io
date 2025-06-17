@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p style="text-align: justify;">
-  Welcome to my personal page! I am Mohammad Mahmudul Hasan, a passionate researcher and educator in the field of Information and Communication Technology. Currently, I am pursuing my Doctor of Philosophy (PhD) at the Norwegian University of Science and Technology (NTNU) in Norway, where I am deeply immersed in cutting-edge research on wireless communication systems, microwave sensors, and advanced signal processing techniques. My work focuses on developing innovative solutions for real-world challenges, particularly in the areas of antenna design, gas sensing, and secure communication systems.
+  Welcome to my personal page! I am Mohammad Mahmudul Hasan, a passionate researcher and educator in the field of Information and Communication Technology. Currently, I am working as a doctoral researcher at the Norwegian University of Science and Technology (NTNU) in Norway, where I am deeply immersed in cutting-edge research on wireless communication systems, microwave sensors, and advanced signal processing techniques. My work focuses on developing innovative solutions for real-world challenges, particularly in the areas of antenna design, gas sensing, and secure communication systems.
 </p>
 
 <a href="javascript:void(0);" onclick="toggleAcademicJourney()" style="font-weight: bold; text-decoration: none; color: #0073e6;">
@@ -17,7 +17,7 @@ redirect_from:
 
 <div id="academic-journey" style="display: none; text-align: justify;">
 
-My academic journey began at <strong>KIIT University</strong> in India, where I earned both my Bachelor’s and Master’s degrees in Electronics and Telecommunication Engineering. During my time at KIIT, I was honored with the Chancellor’s Gold Medal for achieving the highest CGPA and the Founder’s Gold Medal for securing the first position in my Master’s program. These accolades fueled my passion for research and set the foundation for my future endeavors.
+My academic journey began at <strong>KIIT University</strong> in India, where I earned both my Bachelor’s and Master’s degrees in Electronics and Telecommunication Engineering. During my time at KIIT, I was honored with the Chancellor’s Gold Medal for achieving the highest CGPA and the Founder’s Gold Medal for securing the first position in my Master’s program. Then, I received my Doctor of Philosophy (PhD) in Information and Communication Technology from the Norwegian University of Science and Technology (NTNU), Norway, in 2025. These accolades fueled my passion for research and set the foundation for my future endeavors. 
 
 I have had the privilege of expanding my horizons through international collaborations and research experiences. As a Visiting Researcher at <strong>Brno University of Technology</strong> in the Czech Republic, I delved into the fascinating world of Design and Process Engineering, further enriching my expertise in automation and sensor technologies. My research has led to the publication of numerous papers in prestigious journals such as <strong>IEEE Sensors Journal</strong>, <strong>ACS Sensors</strong>, and <strong>IEEE Access</strong>, where I explore topics ranging from molecularly imprinted polymer-based sensors to adaptive antenna impedance matching and physical-layer security in MIMO-OFDM systems.
 
@@ -38,7 +38,7 @@ I am deeply grateful for the guidance and support of my PhD supervisor, Dr. Mich
 
 <div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
   <span><strong>Norwegian University of Science and Technology (NTNU), Norway</strong></span>
-  <span>2022 – Present</span>
+  <span>2022 – 2025</span>
 </div>
 <p style="margin: 5px 0 10px 0;"> <em>Doctor of Philosophy in Information and Communication Technology</em> <br> Faculty of Engineering </p>
 
