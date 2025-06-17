@@ -16,7 +16,7 @@ redirect_from:
 
 <div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
   <span><strong>Norwegian University of Science and Technology (NTNU), Norway</strong></span>
-  <span>2022 – Present</span>
+  <span>2022 – 2025</span>
 </div>
 <p style="margin: 5px 0 10px 0;"> <em>Doctor of Philosophy in Information and Communication Technology</em> <br> Faculty of Engineering </p>
 
