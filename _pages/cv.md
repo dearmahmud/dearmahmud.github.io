@@ -1,6 +1,10 @@
 ---
 layout: archive
-title: "Curriculum Vitae <a href='/files/cv.pdf' download style='float:right; font-size: 0.8em; text-decoration:none; background:#0073e6; color:white; padding:6px 12px; border-radius:5px;'><i class='fa fa-download'></i></a>"
+title: >
+  Curriculum Vitae 
+  <a href="/files/cv.pdf" download style="margin-left: 10px; text-decoration: none;" title="Download CV">
+    <i class="fas fa-download" style="font-size: 20px; color: #0073e6;"></i>
+  </a>
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,6 +14,7 @@ redirect_from:
 {% include base_path %}
 
 ---
+
 
 
 ## Education
