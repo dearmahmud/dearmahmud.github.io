@@ -269,11 +269,11 @@ I remain deeply grateful to my supervisors — Dr. Sudhansu Sekhar Singh, Dr. Mi
 
 <div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
   <span><strong>University of Information Technology and Science, Bangladesh</strong></span>
-  <span>01.2011 – 04.2022</span>
+  <span>01.2011 – Present</span>
 </div>
 <div style="display: flex; justify-content: space-between;">
   <span><em>Associate Professor, Electrical and Electronic Engineering</em></span>
-  <span>01.2011 – Present (Full-Time)</span>
+  <span>01.2011 – Present</span>
 </div>
 <div style="display: flex; justify-content: space-between;">
   <span><em>Head of the Department, Electronics and Communication Engineering</em></span>
@@ -311,7 +311,7 @@ I remain deeply grateful to my supervisors — Dr. Sudhansu Sekhar Singh, Dr. Mi
 </div>
 <div style="display: flex; justify-content: space-between;">
   <span><em>Industrial Trainer, BJIT Limited, Bangladesh</em></span>
-  <span>(Part-Time)</span>
+  <span></span>
 </div>
 
 <div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
@@ -320,11 +320,11 @@ I remain deeply grateful to my supervisors — Dr. Sudhansu Sekhar Singh, Dr. Mi
 </div>
 <div style="display: flex; justify-content: space-between;">
   <span><em>Assistant Professor, Electronics and Telecommunication Engineering</em></span>
-  <span>02.2009 – 12.2010 (Full-Time)</span>
+  <span>02.2009 – 12.2010</span>
 </div>
 <div style="display: flex; justify-content: space-between;">
   <span><em>Teaching Assistant, Electronics and Telecommunication Engineering</em></span>
-  <span>07.2010 – 12.2010 (Full-Time)</span>
+  <span>07.2010 – 12.2010</span>
 </div>
 
 
