@@ -2,8 +2,8 @@
 layout: archive
 title: >
   Curriculum Vitae 
-  <a href="/files/cv.pdf" download style="margin-left: 10px; text-decoration: none;" title="Download CV">
-    <i class="fas fa-download" style="font-size: 20px; color: #0073e6;"></i>
+  <a href="/files/cv.pdf" target="_blank" rel="noopener noreferrer" style="margin-left: 10px; text-decoration: none;" title="Download CV">
+    <i class="fas fa-download" style="font-size: 20px; color: #0073e6; vertical-align: middle;"></i>
   </a>
 permalink: /cv/
 author_profile: true
@@ -14,6 +14,7 @@ redirect_from:
 {% include base_path %}
 
 ---
+
 
 
 
