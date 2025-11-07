@@ -28,13 +28,13 @@ redirect_from:
 
 <div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
   <span><strong>KIIT University, India</strong></span>
-  <span>2010 – 2012</span>
+  <span>208 – 2010</span>
 </div>
 <p style="margin: 5px 0 10px 0;"> <em>Master of Technology in Communication Systems Engineering</em> <br> Department of Electronics and Telecommunication Engineering </p>
 
 <div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
   <span><strong>KIIT University, India</strong></span>
-  <span>2006 – 2010</span>
+  <span>2004 – 2008</span>
 </div>
 <p style="margin: 5px 0 10px 0;"> <em>Bachelor of Technology in Electronics and Telecommunication Engineering</em> <br> Department of Electronics and Telecommunication Engineering </p>
 
