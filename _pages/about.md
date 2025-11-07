@@ -8,26 +8,51 @@ redirect_from:
 ---
 
 <p style="text-align: justify;">
-  Welcome to my personal page! I am Mohammad Mahmudul Hasan, a passionate researcher and educator in the field of Information and Communication Technology. Currently, I am working as a doctoral researcher at the Norwegian University of Science and Technology (NTNU) in Norway, where I am deeply immersed in cutting-edge research on wireless communication systems, microwave sensors, and advanced signal processing techniques. My work focuses on developing innovative solutions for real-world challenges, particularly in the areas of antenna design, gas sensing, and secure communication systems.
+  Hello! I’m Dr. Mohammad Mahmudul Hasan, a researcher and educator working at the intersection of wireless communication, intelligent sensing, and signal processing.
+I earned my Ph.D. in Information and Communication Technology from the Norwegian University of Science and Technology (NTNU), Norway (2025), under the supervision of Dr. Michael Cheffena and Dr. Pavel Škrabánek.
+
+Earlier, I received my M.Tech. (2010, Gold Medalist) and B.Tech. (2008) degrees in Electronics and Telecommunication Engineering from KIIT University, India. Since 2010, I have held academic positions at several universities in India and Bangladesh and am currently serving as an Associate Professor in Electrical and Electronic Engineering.
+In 2024, I also had the opportunity to serve as a Visiting Researcher at Brno University of Technology, Czech Republic.
+
+My research interests span microwave and wireless systems, sensor networks, machine learning applications, signal processing, and RF/antenna design—with a growing focus on AI-enabled communication and sensing for intelligent environments.
 </p>
 
-<a href="javascript:void(0);" onclick="toggleAcademicJourney()" style="font-weight: bold; text-decoration: none; color: #0073e6;">
-  Read more about my academic journey
+<a href="javascript:void(0);" onclick="toggleMore()" style="font-weight: bold; text-decoration: none; color: #0073e6;">
+  Read more about me ...
 </a>
 
-<div id="academic-journey" style="display: none; text-align: justify;">
+<div id="read-more" style="display: none; text-align: justify;">
 
-My academic journey began at <strong>KIIT University</strong> in India, where I earned both my Bachelor’s and Master’s degrees in Electronics and Telecommunication Engineering. During my time at KIIT, I was honored with the Chancellor’s Gold Medal for achieving the highest CGPA and the Founder’s Gold Medal for securing the first position in my Master’s program. Then, I received my Doctor of Philosophy (PhD) in Information and Communication Technology from the Norwegian University of Science and Technology (NTNU), Norway, in 2025. These accolades fueled my passion for research and set the foundation for my future endeavors. 
+## My Academic Journey
+My academic path began at KIIT University, where I built a strong foundation in communication engineering and earned the Chancellor’s Gold Medal and the Founder’s Gold Medal for academic excellence.
+My doctoral studies at NTNU further shaped my research vision—focusing on microwave-based intelligent sensors capable of simultaneous communication and environmental sensing. This work integrated RF engineering, data-driven modeling, and intelligent signal processing, earning a nomination for NTNU’s Best Ph.D. Thesis Award in Sensor Technology.
 
-I have had the privilege of expanding my horizons through international collaborations and research experiences. As a Visiting Researcher at <strong>Brno University of Technology</strong> in the Czech Republic, I delved into the fascinating world of Design and Process Engineering, further enriching my expertise in automation and sensor technologies. My research has led to the publication of numerous papers in prestigious journals such as <strong>IEEE Sensors Journal</strong>, <strong>ACS Sensors</strong>, and <strong>IEEE Access</strong>, where I explore topics ranging from molecularly imprinted polymer-based sensors to adaptive antenna impedance matching and physical-layer security in MIMO-OFDM systems.
+Throughout this journey, I’ve published extensively in high-impact journals such as the IEEE Sensors Journal, ACS Sensors, and IEEE Access, addressing challenges in adaptive antenna systems, molecularly imprinted polymer sensors, and physical-layer security in MIMO-OFDM networks.
 
-In addition to my research, I have a strong commitment to education and mentorship. I have served as an Assistant Professor and Head of the Department of Electronics and Communication Engineering at the University of Information Technology and Science in Bangladesh. During my tenure, I also took on roles as the Director of the Information and Communication Technology Cell and as an Editorial Board Member for the Journal of Science and Engineering. These experiences have allowed me to contribute to the academic community while nurturing the next generation of engineers and researchers.
 
-My professional journey has been further enriched by industrial training and internships at organizations such as Sanyo Engineering & Construction in Japan, GrameenPhone Ltd. in Bangladesh, and All India Radio & Doordarshan in India. These experiences have provided me with a practical understanding of the telecommunications industry and have shaped my approach to solving complex engineering problems.
+## Research and Collaboration
+My research philosophy is rooted in interdisciplinarity and practical impact.
+At Brno University of Technology, I worked on design and process automation, applying sensor intelligence to industrial and environmental systems. My broader research explores how AI and signal processing can enhance communication reliability, sensing precision, and energy efficiency—particularly in applications such as wireless sensor networks, IoT, and carbon monitoring technologies.
 
-I am fluent in Bengali, English, and Hindi, and I am currently learning Norwegian (Norsk-Bokmål) to better connect with the vibrant academic and cultural community in Norway. When I am not immersed in research or teaching, I enjoy exploring new technologies, contributing to open-source projects, and engaging in interdisciplinary collaborations that push the boundaries of innovation.
+I actively collaborate across academia and industry, drawing on experience from GrameenPhone (Telenor Group), Sanyo Engineering & Construction (Japan), and All India Radio & Doordarshan (India). These experiences taught me how to bridge the gap between theoretical research and real-world engineering systems.
 
-I am deeply grateful for the guidance and support of my PhD supervisor, Dr. Michael Cheffena Gebresilassie, and my co-supervisor, Dr. Pavel Škrabánek, who have been instrumental in shaping my research journey. Their mentorship has inspired me to strive for excellence and to contribute meaningfully to the field of Information and Communication Technology.
+
+## Teaching and Mentorship
+With over 14 years of teaching experience, I’ve taught courses such as Wireless Communication Systems, Network Security, Computer Networks, and IoT System Design.
+I’ve also supervised more than 200 undergraduate and postgraduate theses, helping students turn technical curiosity into practical innovation.
+
+In my administrative roles, I’ve served as Head of the Department of Electronics and Communication Engineering, Director of the ICT Cell, and Editorial Board Member of the Journal of Science and Engineering. Each role has strengthened my belief in the transformative power of education, collaboration, and mentorship.
+
+
+## Beyond Academia
+I’m fluent in Bengali, English, and Hindi, and currently learning Norwegian (Bokmål) to deepen my connection with Norway’s academic and cultural landscape.
+
+When I’m not immersed in research or teaching, I enjoy exploring new technologies, open-source projects, and cross-disciplinary collaborations that challenge conventional thinking. My curiosity lies in how intelligent systems can make communication networks more adaptive, secure, and sustainable.
+
+
+## Acknowledgments
+I remain deeply grateful to my supervisors — Dr. Sudhansu Sekhar Singh, Dr. Michael Cheffena Gebresilassie, Dr. Pavel Škrabánek, and Dr. Sule Yildirim Yayilgan — and to all others whose mentorship has shaped not only my research but also my approach to scientific inquiry. Their guidance continues to inspire my pursuit of meaningful innovation and lasting impact.
+
 
 </div>
 
@@ -387,16 +412,16 @@ I am deeply grateful for the guidance and support of my PhD supervisor, Dr. Mich
 
 
 <script>
-function toggleAcademicJourney() {
-  var content = document.getElementById("academic-journey");
-  var link = document.querySelector("a[onclick='toggleAcademicJourney()']");
+function toggleMore() {
+  var content = document.getElementById("read-more");
+  var link = document.querySelector("a[onclick='toggleMore()']");
   
   if (content.style.display === "none") {
     content.style.display = "block";
-    link.textContent = "Hide academic journey";
+    link.textContent = "Hide more";
   } else {
     content.style.display = "none";
-    link.textContent = "Read more about my academic journey";
+    link.textContent = "Read more ...";
   }
 }
 </script>
