@@ -44,28 +44,22 @@ redirect_from:
 
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
-      <strong>Mohammad Mahmudul Hasan</strong>, Onur Alev, Pavel Skrabanek, Gabriela Soukupová, Fatima Hassouna, and Michael Cheffena Gebresilassie, “Microwave MIMO E-Nose for Wireless Communication and Selective Detection of VOC Mixtures with Concentration Estimation”, <strong>ACS Sensors</strong>, 2025 (under review).
+      <strong>Mohammad Mahmudul Hasan</strong>, Onur Alev, Pavel Skrabanek, Gabriela Soukupová, Fatima Hassouna, and Michael Cheffena Gebresilassie, “Microwave MIMO E-Nose for Wireless Communication and Selective Detection of VOC Mixtures with Concentration Estimation”, <strong>ACS Sensors</strong>, 2025.
     </div>
     <div style="margin-left: 20px;">(2025)</div>
   </div>
 
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
-      <strong>Mohammad Mahmudul Hasan</strong>, Onur Alev, Pavel Skrabanek, and Michael Cheffena Gebresilassie, “Molecularly Imprinted Polymer-Based Electronic Nose for Ultrasensitive, Selective Detection and Concentration Estimation of VOC Mixtures”, <strong>IEEE Sensors Journal</strong>, 2025 (under review).
+      <strong>Mohammad Mahmudul Hasan</strong>, Onur Alev, Pavel Skrabanek, and Michael Cheffena Gebresilassie, “Molecularly Imprinted Polymer-Based Electronic Nose for Ultrasensitive, Selective Detection and Concentration Estimation of VOC Mixtures”, <strong>IEEE Sensors Journal</strong>, 2025.
     </div>
     <div style="margin-left: 20px;">(2025)</div>
   </div>
 
-- <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <div style="text-align: justify; flex: 1;">
-      <strong>Mohammad Mahmudul Hasan</strong>, and Michael Cheffena Gebresilassie, “Wideband Isolation for a Closely Coupled Planar Inverted-F Antenna Array Using a Compact Lumped Decoupling and Matching Network,” <strong>IEEE Microwave and Wireless Technology Letters</strong>, 2025 (under review).
-    </div>
-    <div style="margin-left: 20px;">(2025)</div>
-  </div>
 
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
-      I. Khan, <strong>Mohammad Mahmudul Hasan</strong>, Michael Cheffena Gebresilassie, “A Novel Low-Complexity Peak-Power-Assisted Data-Aided Channel Estimation Scheme for MIMO-OFDM Wireless Systems”, <strong>IEEE Access</strong>, 2025 (under review).
+      I. Khan, <strong>Mohammad Mahmudul Hasan</strong>, Michael Cheffena Gebresilassie, “A Novel Low-Complexity Peak-Power-Assisted Data-Aided Channel Estimation Scheme for MIMO-OFDM Wireless Systems”, <strong> IEEE Open Journal of Signal Processing</strong>, 2025.
     </div>
     <div style="margin-left: 20px;">(2025)</div>
   </div>
@@ -74,7 +68,7 @@ redirect_from:
 
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
-      I. Khan, <strong>Mohammad Mahmudul Hasan</strong>, Michael Cheffena Gebresilassie, “Performance Analysis of Transmitter-Based Data-Aided Channel Estimation Scheme under Various Channel Conditions”, <strong>IEEE Open Journal of Vehicular Technology</strong>, 2025 (under review).
+      Onur Alev, <strong>Mohammad Mahmudul Hasan</strong>, E. T. Erruğrul, S. Birdoğan, O. Özdemir, E. Goldenberg and Michael Cheffena Gebresilassie, “Hydrothermally Synthesized Molybdenum disulfide Nanoflakes: Structural, Electrical, and Antenna-based Gas Sensing Characteristics”, <strong>Sensors & Actuators: A. Physical</strong>, 2025.
     </div>
     <div style="margin-left: 20px;">(2025)</div>
   </div>
@@ -83,7 +77,7 @@ redirect_from:
 
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
-      Onur Alev, <strong>Mohammad Mahmudul Hasan</strong>, E. T. Erruğrul, S. Birdoğan, O. Özdemir, E. Goldenberg and Michael Cheffena Gebresilassie, “Hydrothermally Synthesized Molybdenum disulfide Nanoflakes: Structural, Electrical, and Antenna-based Gas Sensing Characteristics”, <strong>Sensors & Actuators: A. Physical</strong>, 2025 (under review).
+      <strong>Mohammad Mahmudul Hasan</strong>, T. Cowen, Onur Alev and Michael Cheffena Gebresilassie, “MIMO Microwave Sensor for Selective and Simultaneous Detection of Methanol and Ethanol Gases at Room Temperature,” <strong>IEEE Transactions on Instrumentation & Measurement</strong>, 2025.
     </div>
     <div style="margin-left: 20px;">(2025)</div>
   </div>
@@ -92,16 +86,7 @@ redirect_from:
 
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
-      <strong>Mohammad Mahmudul Hasan</strong>, T. Cowen, Onur Alev and Michael Cheffena Gebresilassie, “MIMO Microwave Sensor for Selective and Simultaneous Detection of Methanol and Ethanol Gases at Room Temperature,” <strong>IEEE Transactions on Instrumentation & Measurement</strong>, 2025 (Early Access).
-    </div>
-    <div style="margin-left: 20px;">(2025)</div>
-  </div>
-
-
-
-- <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <div style="text-align: justify; flex: 1;">
-      <strong>Mohammad Mahmudul Hasan</strong>, Onur Alev and Michael Cheffena Gebresilassie, “Dual-Functional Antenna Sensor for Highly Sensitive and Selective Detection of Isopropanol Gas Using Optimized Molecularly Imprinted Polymers,” <strong>ACS Sensors</strong>, 2025 (Early Access).
+      <strong>Mohammad Mahmudul Hasan</strong>, Onur Alev and Michael Cheffena Gebresilassie, “Dual-Functional Antenna Sensor for Highly Sensitive and Selective Detection of Isopropanol Gas Using Optimized Molecularly Imprinted Polymers,” <strong>ACS Sensors</strong>, 2025.
     </div>
     <div style="margin-left: 20px;">(2025)</div>
   </div>
@@ -237,21 +222,12 @@ redirect_from:
 ## Work Experience
 
 <div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
-  <span><strong>Norwegian University of Science and Technology, Norway</strong></span>
-  <span>05.2022 – Present</span>
-</div>
-<div style="display: flex; justify-content: space-between;">
-  <span><em>Fellow Researcher, Faculty of Engineering</em></span>
-  <span>(Full-Time)</span>
-</div>
-
-<div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
   <span><strong>University of Information Technology and Science, Bangladesh</strong></span>
-  <span>01.2011 – 04.2022</span>
+  <span>01.2011 – Present</span>
 </div>
 <div style="display: flex; justify-content: space-between;">
-  <span><em>Assistant Professor, Electronics and Communication Engineering</em></span>
-  <span>01.2011 – 04.2022 (Full-Time)</span>
+  <span><em>Assistant Professor, Electrical and Electronic Engineering</em></span>
+  <span>01.2011 – Present</span>
 </div>
 <div style="display: flex; justify-content: space-between;">
   <span><em>Head of the Department, Electronics and Communication Engineering</em></span>
@@ -275,12 +251,21 @@ redirect_from:
 </div>
 
 <div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
+  <span><strong>Norwegian University of Science and Technology, Norway</strong></span>
+  <span>05.2022 – 06.2025</span>
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <span><em>Fellow Researcher, Faculty of Engineering</em></span>
+  <span></span>
+</div>
+
+<div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
   <span><strong>Sanyo Engineering & Construction Inc., Japan</strong></span>
   <span>04.2018 – 01.2019</span>
 </div>
 <div style="display: flex; justify-content: space-between;">
   <span><em>Industrial Trainer, BJIT Limited, Bangladesh</em></span>
-  <span>(Part-Time)</span>
+  <span></span>
 </div>
 
 <div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
@@ -289,11 +274,11 @@ redirect_from:
 </div>
 <div style="display: flex; justify-content: space-between;">
   <span><em>Assistant Professor, Electronics and Telecommunication Engineering</em></span>
-  <span>02.2009 – 12.2010 (Full-Time)</span>
+  <span>02.2009 – 12.2010</span>
 </div>
 <div style="display: flex; justify-content: space-between;">
   <span><em>Teaching Assistant, Electronics and Telecommunication Engineering</em></span>
-  <span>07.2010 – 12.2010 (Full-Time)</span>
+  <span>07.2010 – 12.2010</span>
 </div>
 
 
