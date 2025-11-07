@@ -21,7 +21,7 @@ My research interests span microwave and wireless systems, sensor networks, sign
   Read more about me ...
 </a>
 
-<div id="read-more" style="display: none; text-align: justify;">
+<div id="read-more" markdown="1" style="display: none; text-align: justify;">
 
 ## My Academic Journey
 My academic path began at KIIT University, where I built a strong foundation in communication engineering and earned the Chancellor’s Gold Medal and the Founder’s Gold Medal for academic excellence.
