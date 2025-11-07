@@ -17,9 +17,11 @@ Earlier, I received my M.Tech. (2010, Gold Medalist) and B.Tech. (2008) degrees 
 My research interests span microwave and wireless systems, sensor networks, signal processing, machine learning applications, and RF/antenna design—with a growing focus on AI-driven communication and intelligent sensing systems.
 </p>
 
-<a href="javascript:void(0);" onclick="toggleMore()" style="font-weight: bold; text-decoration: none; color: #0073e6;">
-  Read more about me ...
-</a>
+<div style="text-align: right; margin-top: -10px;">
+  <a href="javascript:void(0);" onclick="toggleMore()" style="font-weight: bold; text-decoration: none; color: #0073e6;">
+    Read more about me ...
+  </a>
+</div>
 
 <div id="read-more" markdown="1" style="display: none; text-align: justify;">
 
