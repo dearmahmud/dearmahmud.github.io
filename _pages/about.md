@@ -8,13 +8,13 @@ redirect_from:
 ---
 
 <p style="text-align: justify;">
-  Hello! I’m Dr. Mohammad Mahmudul Hasan, a researcher and educator working at the intersection of wireless communication, intelligent sensing, and signal processing.
+  Hello! I’m Dr. Mohammad Mahmudul Hasan, a researcher and educator working at the intersection of wireless communication, intelligent sensing, and signal processing. I am currently serving as an Associate Professor in the Department of Electrical and Electronic Engineering.
+
 I earned my Ph.D. in Information and Communication Technology from the Norwegian University of Science and Technology (NTNU), Norway (2025), under the supervision of Dr. Michael Cheffena and Dr. Pavel Škrabánek.
 
-Earlier, I received my M.Tech. (2010, Gold Medalist) and B.Tech. (2008) degrees in Electronics and Telecommunication Engineering from KIIT University, India. Since 2010, I have held academic positions at several universities in India and Bangladesh and am currently serving as an Associate Professor in Electrical and Electronic Engineering.
-In 2024, I also had the opportunity to serve as a Visiting Researcher at Brno University of Technology, Czech Republic.
+Earlier, I received my M.Tech. (2010, Gold Medalist) and B.Tech. (2008) degrees in Electronics and Telecommunication Engineering from KIIT University, India. Since 2010, I have held academic positions at several universities in India and Bangladesh, and in 2024, I served as a Visiting Researcher at Brno University of Technology, Czech Republic.
 
-My research interests span microwave and wireless systems, sensor networks, machine learning applications, signal processing, and RF/antenna design—with a growing focus on AI-enabled communication and sensing for intelligent environments.
+My research interests span microwave and wireless systems, sensor networks, signal processing, machine learning applications, and RF/antenna design—with a growing focus on AI-driven communication and intelligent sensing systems.
 </p>
 
 <a href="javascript:void(0);" onclick="toggleMore()" style="font-weight: bold; text-decoration: none; color: #0073e6;">
@@ -91,28 +91,21 @@ I remain deeply grateful to my supervisors — Dr. Sudhansu Sekhar Singh, Dr. Mi
 
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
-      <strong>Mohammad Mahmudul Hasan</strong>, Onur Alev, Pavel Skrabanek, Gabriela Soukupová, Fatima Hassouna, and Michael Cheffena Gebresilassie, “Microwave MIMO E-Nose for Wireless Communication and Selective Detection of VOC Mixtures with Concentration Estimation”, <strong>ACS Sensors</strong>, 2025 (under review).
+      <strong>Mohammad Mahmudul Hasan</strong>, Onur Alev, Pavel Skrabanek, Gabriela Soukupová, Fatima Hassouna, and Michael Cheffena Gebresilassie, “Microwave MIMO E-Nose for Wireless Communication and Selective Detection of VOC Mixtures with Concentration Estimation”, <strong>ACS Sensors</strong>, 2025.
     </div>
     <div style="margin-left: 20px;">(2025)</div>
   </div>
 
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
-      <strong>Mohammad Mahmudul Hasan</strong>, Onur Alev, Pavel Skrabanek, and Michael Cheffena Gebresilassie, “Molecularly Imprinted Polymer-Based Electronic Nose for Ultrasensitive, Selective Detection and Concentration Estimation of VOC Mixtures”, <strong>IEEE Sensors Journal</strong>, 2025 (under review).
+      <strong>Mohammad Mahmudul Hasan</strong>, Onur Alev, Pavel Skrabanek, and Michael Cheffena Gebresilassie, “Molecularly Imprinted Polymer-Based Electronic Nose for Ultrasensitive, Selective Detection and Concentration Estimation of VOC Mixtures”, <strong>IEEE Sensors Journal</strong>, 2025.
     </div>
     <div style="margin-left: 20px;">(2025)</div>
   </div>
 
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
-      <strong>Mohammad Mahmudul Hasan</strong>, and Michael Cheffena Gebresilassie, “Wideband Isolation for a Closely Coupled Planar Inverted-F Antenna Array Using a Compact Lumped Decoupling and Matching Network,” <strong>IEEE Microwave and Wireless Technology Letters</strong>, 2025 (under review).
-    </div>
-    <div style="margin-left: 20px;">(2025)</div>
-  </div>
-
-- <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <div style="text-align: justify; flex: 1;">
-      I. Khan, <strong>Mohammad Mahmudul Hasan</strong>, Michael Cheffena Gebresilassie, “A Novel Low-Complexity Peak-Power-Assisted Data-Aided Channel Estimation Scheme for MIMO-OFDM Wireless Systems”, <strong>IEEE Access</strong>, 2025 (under review).
+      I. Khan, <strong>Mohammad Mahmudul Hasan</strong>, Michael Cheffena Gebresilassie, “A Novel Low-Complexity Peak-Power-Assisted Data-Aided Channel Estimation Scheme for MIMO-OFDM Wireless Systems”, <strong>IEEE Access</strong>, 2025.
     </div>
     <div style="margin-left: 20px;">(2025)</div>
   </div>
@@ -121,16 +114,7 @@ I remain deeply grateful to my supervisors — Dr. Sudhansu Sekhar Singh, Dr. Mi
 
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
-      I. Khan, <strong>Mohammad Mahmudul Hasan</strong>, Michael Cheffena Gebresilassie, “Performance Analysis of Transmitter-Based Data-Aided Channel Estimation Scheme under Various Channel Conditions”, <strong>IEEE Open Journal of Vehicular Technology</strong>, 2025 (under review).
-    </div>
-    <div style="margin-left: 20px;">(2025)</div>
-  </div>
-
-
-
-- <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <div style="text-align: justify; flex: 1;">
-      Onur Alev, <strong>Mohammad Mahmudul Hasan</strong>, E. T. Erruğrul, S. Birdoğan, O. Özdemir, E. Goldenberg and Michael Cheffena Gebresilassie, “Hydrothermally Synthesized Molybdenum disulfide Nanoflakes: Structural, Electrical, and Antenna-based Gas Sensing Characteristics”, <strong>Sensors & Actuators: A. Physical</strong>, 2025 (under review).
+      Onur Alev, <strong>Mohammad Mahmudul Hasan</strong>, E. T. Erruğrul, S. Birdoğan, O. Özdemir, E. Goldenberg and Michael Cheffena Gebresilassie, “Hydrothermally Synthesized Molybdenum disulfide Nanoflakes: Structural, Electrical, and Antenna-based Gas Sensing Characteristics”, <strong>Sensors & Actuators: A. Physical</strong>, 2025.
     </div>
     <div style="margin-left: 20px;">(2025)</div>
   </div>
@@ -284,21 +268,12 @@ I remain deeply grateful to my supervisors — Dr. Sudhansu Sekhar Singh, Dr. Mi
 ## Work Experience
 
 <div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
-  <span><strong>Norwegian University of Science and Technology, Norway</strong></span>
-  <span>05.2022 – Present</span>
-</div>
-<div style="display: flex; justify-content: space-between;">
-  <span><em>Fellow Researcher, Faculty of Engineering</em></span>
-  <span>(Full-Time)</span>
-</div>
-
-<div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
   <span><strong>University of Information Technology and Science, Bangladesh</strong></span>
   <span>01.2011 – 04.2022</span>
 </div>
 <div style="display: flex; justify-content: space-between;">
-  <span><em>Assistant Professor, Electronics and Communication Engineering</em></span>
-  <span>01.2011 – 04.2022 (Full-Time)</span>
+  <span><em>Associate Professor, Electrical and Electronic Engineering</em></span>
+  <span>01.2011 – Present (Full-Time)</span>
 </div>
 <div style="display: flex; justify-content: space-between;">
   <span><em>Head of the Department, Electronics and Communication Engineering</em></span>
@@ -319,6 +294,15 @@ I remain deeply grateful to my supervisors — Dr. Sudhansu Sekhar Singh, Dr. Mi
 <div style="display: flex; justify-content: space-between;">
   <span><em>Advisor, Information and Communication Technology Cell</em></span>
   <span>03.2020 – 04.2022</span>
+</div>
+
+<div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
+  <span><strong>Norwegian University of Science and Technology, Norway</strong></span>
+  <span>05.2022 – 06.2025</span>
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <span><em>Fellow Researcher, Faculty of Engineering</em></span>
+  <span>(Full-Time)</span>
 </div>
 
 <div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
