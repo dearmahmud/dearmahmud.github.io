@@ -19,7 +19,7 @@ My research interests span microwave and wireless systems, sensor networks, sign
 
 <div style="text-align: right; margin-top: -10px;">
   <a href="javascript:void(0);" onclick="toggleMore()" style="font-weight: bold; text-decoration: none; color: #0073e6;">
-    Read more about me ...
+    Read more ...
   </a>
 </div>
 
@@ -304,7 +304,7 @@ I remain deeply grateful to my supervisors — Dr. Sudhansu Sekhar Singh, Dr. Mi
 </div>
 <div style="display: flex; justify-content: space-between;">
   <span><em>Fellow Researcher, Faculty of Engineering</em></span>
-  <span>(Full-Time)</span>
+  <span></span>
 </div>
 
 <div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
