@@ -8,9 +8,10 @@ redirect_from:
 ---
 
 <p style="text-align: justify;">
-I am Mohammad Mahmudul Hasan, and an Associate Professor in the Department of Electrical and Electronic Engineering (EEE) at the University of Information Technology and Sciences (UITS), Bangladesh. <br><br>
-
-I earned my bachelor's (2004–2008) and master's (2008–2010) degrees from KIIT University, India, and obtained my PhD (2022–2025) from the Norwegian University of Science and Technology (NTNU), Norway. In 2024, I served as a visiting researcher at the Brno University of Technology (VUT), Czech Republic. I worked at UITS as an Assistant Professor from 2011–2022 and held several academic leadership roles, including Head of the Department (2019–2022), Director of the ICT Cell (2020–2022), Advisor to the IT Office (2018–2022), Project Manager (2020–2022) for the university’s Enterprise Resource Planning initiative, and Self-Assessment Committee Member (2017–2018), where I worked as a pedagogical learner and trainer. I also chaired several committees (2011–2022), served on the Finance Committee (2020–2022), the Editorial Board (2020–2022), and as Member Secretary to the Faculty (2018–2022). Additionally, I was an industrial trainer for Sanyo Engineering and Construction Inc. (Suntec Group Japan, 2018–2019).
+I am Dr. Mohammad Mahmudul Hasan, Associate Professor in the Department of Electrical and Electronic Engineering at the University of Information Technology and Sciences (UITS), Bangladesh. <br><br> 
+  
+My academic journey spans multiple countries, including Bangladesh, India, the Czech Republic, and Norway, and reflects a deep commitment to research, teaching, and innovation in electrical and communication engineering. I earned my bachelor’s and master’s degrees from KIIT University, India, graduating with distinction and receiving the Chancellor’s Gold Medal and Founder’s Gold Medal for academic excellence. I completed my Ph.D. in Information and Communication Technology at the Norwegian University of Science and Technology (NTNU) in 2025. My doctoral work focused on microwave-based intelligent sensors capable of simultaneous communication and environmental sensing, integrating RF engineering, adaptive signal processing, and machine learning. This research was nominated for NTNU’s Best Doctoral Thesis Award in Sensor Research. In 2024, I served as a Visiting Research Fellow at Brno University of Technology (VUT), exploring design automation and sensor intelligence for industrial and environmental systems.
+Over the past fifteen years, I have held academic leadership roles that shaped programs, people, and digital infrastructure: Head of Department, Director of ICT Cell, Advisor to the IT Office, Project Manager for an enterprise-wide ERP (UCAM) implementation, Member of the Finance Committee, and Editorial Board Member of the Journal of Science and Engineering. I have also worked as an industrial trainer with Sanyo Engineering and Construction Inc. (Suntec Group, Japan), connecting technical education to lived professional practice.
 
 </p>
 
@@ -22,32 +23,30 @@ I earned my bachelor's (2004–2008) and master's (2008–2010) degrees from KII
 
 <div id="read-more" markdown="1" style="display: none; text-align: justify;">
 
-## My Academic Journey
-My academic path began at KIIT University, where I built a strong foundation in communication engineering and earned the Chancellor’s Gold Medal and the Founder’s Gold Medal for academic excellence.
-My doctoral studies at NTNU further shaped my research vision—focusing on microwave-based intelligent sensors capable of simultaneous communication and environmental sensing. This work integrated RF engineering, data-driven modeling, and intelligent signal processing, earning a nomination for NTNU’s Best Ph.D. Thesis Award in Sensor Technology.
+## Academic Vision
+My academic vision is rooted in the belief that engineering education should prepare students not only to master technical knowledge but also to apply it creatively and responsibly in real-world contexts. I strive to create learning environments that encourage curiosity, critical thinking, and collaboration, enabling students to become adaptive problem-solvers and lifelong learners.
 
-Throughout this journey, I’ve published extensively in high-impact journals such as the IEEE Sensors Journal, ACS Sensors, and IEEE Access, addressing challenges in adaptive antenna systems, molecularly imprinted polymer sensors, and physical-layer security in MIMO-OFDM networks.
+## Research Interests
+My research focuses on intelligent sensing and communication systems, machine learning for signal processing, and energy-efficient architectures for IoT and edge computing. I am particularly interested in:
 
+ - Integrated sensing and communication (ISAC) for next-generation wireless systems.
+ - AI-assisted design automation for analog/RF circuits.
+ - Low-power architectures for embedded and edge intelligence.
 
-## Research and Collaboration
-My research philosophy is rooted in interdisciplinarity and practical impact.
-At Brno University of Technology, I worked on design and process automation, applying sensor intelligence to industrial and environmental systems. My broader research explores how AI and signal processing can enhance communication reliability, sensing precision, and energy efficiency—particularly in applications such as wireless sensor networks, IoT, and carbon monitoring technologies.
-
-I actively collaborate across academia and industry, drawing on experience from GrameenPhone (Telenor Group), Sanyo Engineering & Construction (Japan), and All India Radio & Doordarshan (India). These experiences taught me how to bridge the gap between theoretical research and real-world engineering systems.
-
+I have published extensively in high-impact journals such as _IEEE Sensors Journal, IEEE Transactions on Instrumentation and Measurement, ACS Sensors, Nature, and Sensors and Actuators A: Physical_. My work bridges theory and application, addressing challenges in wireless communication systems, adaptive antenna systems, molecularly imprinted polymer sensors, and physical-layer security in MIMO-OFDM networks.
 
 ## Teaching and Mentorship
-With over 14 years of teaching experience, I’ve taught courses such as Wireless Communication Systems, Network Security, Computer Networks, and IoT System Design.
-I’ve also supervised more than 200 undergraduate and postgraduate theses, helping students turn technical curiosity into practical innovation.
+Teaching is central to my academic identity. Over the past 15 years, I have taught a wide range of engineering subjects across electrical, electronic, communication, and computer engineering. My approach emphasizes clarity, engagement, and relevance, ensuring that students connect theoretical principles to real-world engineering challenges.
+I have supervised more than 100 undergraduate and 20 postgraduate projects and theses, guiding students through research design, implementation, and dissemination. Many of these projects have evolved into industry collaborations or contributed to published research, reflecting my commitment to mentorship and scholarly growth.
 
-In my administrative roles, I’ve served as Head of the Department of Electronics and Communication Engineering, Director of the ICT Cell, and Editorial Board Member of the Journal of Science and Engineering. Each role has strengthened my belief in the transformative power of education, collaboration, and mentorship.
+## Leadership and Service
+Beyond the classroom and laboratory, I have played an active role in shaping academic programs and institutional systems. As Head of Department, I led curriculum modernization and quality assurance initiatives. As Director of ICT Cell, I spearheaded a university-wide digital transformation, implementing ERP systems for academic management and remote learning infrastructure. These roles have deepened my understanding of educational leadership and the strategic integration of technology in higher education.
 
+## Global Engagement and Collaboration
+My academic journey has been enriched by international collaborations and cross-cultural experiences. From India to Norway and the Czech Republic, I have worked with diverse teams on projects that combine engineering innovation with societal impact. I continue to seek partnerships that advance interdisciplinary research and global knowledge exchange.
 
 ## Beyond Academia
-I’m fluent in Bengali, English, and Hindi, and currently learning Norwegian (Bokmål) to deepen my connection with Norway’s academic and cultural landscape.
-
-When I’m not immersed in research or teaching, I enjoy exploring new technologies, open-source projects, and cross-disciplinary collaborations that challenge conventional thinking. My curiosity lies in how intelligent systems can make communication networks more adaptive, secure, and sustainable.
-
+Outside my professional work, I am passionate about exploring emerging technologies, open-source projects, and collaborative initiatives that challenge conventional thinking. I am fluent in Bengali, English, and Hindi, and currently learning Norwegian (Bokmål) to strengthen my engagement with Scandinavian research communities.
 
 ## Acknowledgments
 I remain deeply grateful to my supervisors — Dr. Sudhansu Sekhar Singh, Dr. Michael Cheffena Gebresilassie, Dr. Pavel Škrabánek, and Dr. Sule Yildirim Yayilgan — and to all others whose mentorship has shaped not only my research but also my approach to scientific inquiry. Their guidance continues to inspire my pursuit of meaningful innovation and lasting impact.
