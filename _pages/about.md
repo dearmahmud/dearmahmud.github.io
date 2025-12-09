@@ -8,13 +8,10 @@ redirect_from:
 ---
 
 <p style="text-align: justify;">
-  Hello! I’m Dr. Mohammad Mahmudul Hasan, a researcher and educator working at the intersection of wireless communication, intelligent sensing, and signal processing. I am currently serving as an Associate Professor in the Department of Electrical and Electronic Engineering.
+I am Mohammad Mahmudul Hasan, and an Associate Professor in the Department of Electrical and Electronic Engineering (EEE) at the University of Information Technology and Sciences (UITS), Bangladesh. 
 
-I earned my Ph.D. in Information and Communication Technology from the Norwegian University of Science and Technology (NTNU), Norway (2025), under the supervision of Dr. Michael Cheffena and Dr. Pavel Škrabánek.
+I earned my bachelor's (2004–2008) and master's (2008–2010) degrees from KIIT University, India, and obtained my PhD (2022–2025) from the Norwegian University of Science and Technology (NTNU), Norway. In 2024, I served as a visiting researcher at the Brno University of Technology (VUT), Czech Republic. I worked at UITS as an Assistant Professor from 2011–2022 and held several academic leadership roles, including Head of the Department (2019–2022), Director of the ICT Cell (2020–2022), Advisor to the IT Office (2018–2022), Project Manager (2020–2022) for the university’s Enterprise Resource Planning initiative, and Self-Assessment Committee Member (2017–2018), where I worked as a pedagogical learner and trainer. I also chaired several committees (2011–2022), served on the Finance Committee (2020–2022), the Editorial Board (2020–2022), and as Member Secretary to the Faculty (2018–2022). Additionally, I was an industrial trainer for Sanyo Engineering and Construction Inc. (Suntec Group Japan, 2018–2019).
 
-Earlier, I received my M.Tech. (2010, Gold Medalist) and B.Tech. (2008) degrees in Electronics and Telecommunication Engineering from KIIT University, India. Since 2010, I have held academic positions at several universities in India and Bangladesh, and in 2024, I served as a Visiting Researcher at Brno University of Technology, Czech Republic.
-
-My research interests span microwave and wireless systems, sensor networks, signal processing, machine learning applications, and RF/antenna design—with a growing focus on AI-driven communication and intelligent sensing systems.
 </p>
 
 <div style="text-align: right; margin-top: -10px;">
