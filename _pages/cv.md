@@ -399,4 +399,3 @@ Professor, Faculty of Engineering,
 NTNU, Gjøvik 2815, Norway  
 Email: [are.strandlie@ntnu.no](mailto:are.strandlie@ntnu.no)  
 Phone: (+47) 41000699
----
