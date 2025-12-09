@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 <p style="text-align: justify;">
-I am Mohammad Mahmudul Hasan, and an Associate Professor in the Department of Electrical and Electronic Engineering (EEE) at the University of Information Technology and Sciences (UITS), Bangladesh. 
-
+I am Mohammad Mahmudul Hasan, and an Associate Professor in the Department of Electrical and Electronic Engineering (EEE) at the University of Information Technology and Sciences (UITS), Bangladesh. <br><br>
 
 I earned my bachelor's (2004–2008) and master's (2008–2010) degrees from KIIT University, India, and obtained my PhD (2022–2025) from the Norwegian University of Science and Technology (NTNU), Norway. In 2024, I served as a visiting researcher at the Brno University of Technology (VUT), Czech Republic. I worked at UITS as an Assistant Professor from 2011–2022 and held several academic leadership roles, including Head of the Department (2019–2022), Director of the ICT Cell (2020–2022), Advisor to the IT Office (2018–2022), Project Manager (2020–2022) for the university’s Enterprise Resource Planning initiative, and Self-Assessment Committee Member (2017–2018), where I worked as a pedagogical learner and trainer. I also chaired several committees (2011–2022), served on the Finance Committee (2020–2022), the Editorial Board (2020–2022), and as Member Secretary to the Faculty (2018–2022). Additionally, I was an industrial trainer for Sanyo Engineering and Construction Inc. (Suntec Group Japan, 2018–2019).
 
