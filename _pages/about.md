@@ -401,7 +401,7 @@ function toggleMore() {
   
   if (content.style.display === "none") {
     content.style.display = "block";
-    link.textContent = "Hide more";
+    link.textContent = "... Hide more";
   } else {
     content.style.display = "none";
     link.textContent = "Read more ...";
