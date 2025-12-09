@@ -232,7 +232,7 @@ redirect_from:
   <span>01.2011 – Present</span>
 </div>
 <div style="display: flex; justify-content: space-between;">
-  <span><em>Assistant Professor, Electrical and Electronic Engineering</em></span>
+  <span><em>Associate Professor, Electrical and Electronic Engineering</em></span>
   <span>01.2011 – Present</span>
 </div>
 <div style="display: flex; justify-content: space-between;">
