@@ -286,8 +286,8 @@ redirect_from:
   <span>2025</span>
 </div>
 <div style="display: flex; justify-content: space-between;">
-  <span>Nominated for Best Doctoral Thesis in Sensors</span><br>
-  <span>Norwegian University of Science and Technology</span>
+  <span>Nominated for Best Doctoral Thesis in Sensors<br>
+  Norwegian University of Science and Technology</span>
 </div>
 
 <div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
