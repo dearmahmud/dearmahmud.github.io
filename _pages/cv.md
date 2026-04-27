@@ -27,12 +27,6 @@ redirect_from:
 <p style="margin: 5px 0 10px 0;"> <em>Doctor of Philosophy in Information and Communication Technology</em> <br> Faculty of Engineering </p>
 
 <div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
-  <span><strong>Brno University of Technology (VUT), Czech Republic</strong></span>
-  <span>2024 – 2025</span>
-</div>
-<p style="margin: 5px 0 10px 0;"> <em>Visiting Researcher in Design and Process Engineering</em> <br> Department of Automation </p>
-
-<div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
   <span><strong>KIIT University, India</strong></span>
   <span>208 – 2010</span>
 </div>
@@ -266,6 +260,16 @@ redirect_from:
 </div>
 
 <div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
+  <span><strong>Brno University of Technology (VUT), Czech Republicy</strong></span>
+  <span>08.2024 – 01.2025</span>
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <span><em>Visiting Research Fellow, Department of Automation</em></span>
+  <span></span>
+</div>
+
+
+<div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
   <span><strong>Sanyo Engineering & Construction Inc., Japan</strong></span>
   <span>04.2018 – 01.2019</span>
 </div>
@@ -293,8 +297,17 @@ redirect_from:
 ## Honors and Awards
 
 <div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
+  <span><strong>Research Recognition</strong></span>
+  <span>2025</span>
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <span>Nominated for Best Doctoral Thesis in Sensors</span>
+  <span>Norwegian University of Science and Technology</span>
+</div>
+
+<div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
   <span><strong>Research Grant</strong></span>
-  <span>08.2024 – 01.2025</span>
+  <span>2024</span>
 </div>
 <div style="display: flex; justify-content: space-between;">
   <span>Awarded 146,000 NOK, The Research Council of Norway</span>
@@ -302,7 +315,7 @@ redirect_from:
 
 <div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
   <span><strong>Chancellor’s Gold Medal</strong></span>
-  <span>12.2010</span>
+  <span>2010</span>
 </div>
 <div style="display: flex; justify-content: space-between;">
   <span>Awarded for securing the highest CGPA (10.0/10.0), KIIT University, India</span>
@@ -310,7 +323,7 @@ redirect_from:
 
 <div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
   <span><strong>Founder’s Gold Medal</strong></span>
-  <span>12.2010</span>
+  <span>2010</span>
 </div>
 <div style="display: flex; justify-content: space-between;">
   <span>Awarded for securing the first position in Master of Technology, KIIT University, India</span>
@@ -363,39 +376,6 @@ redirect_from:
 
 ---
 
-## References
+## Citizenship and Residency
 
-**Dr. Michael Cheffena Gebresilassie**  
-*PhD Supervisor*  
-Professor, Faculty of Engineering,  
-NTNU, Gjøvik 2815, Norway  
-Email: [michael.cheffena@ntnu.no](mailto:michael.cheffena@ntnu.no)  
-Phone: (+47) 45226765
-
-**Dr. Pavel Škrabánek**  
-*PhD Co-Supervisor*  
-Associate Professor, Faculty of Mechanical Engineering,  
-VUT, Brno 612 00, Czech Republic  
-Email: [pavel.skrabanek@vut.cz](mailto:pavel.skrabanek@vut.cz)  
-Phone: (+420) 541142299
-
-**Dr. Sule Yildirim Yayilgan**  
-*PhD Co-Supervisor*  
-Professor, Faculty of Information Technology and Electrical Engineering,  
-NTNU, Gjøvik 2815, Norway  
-Email: [sule.yildirim@ntnu.no](mailto:sule.yildirim@ntnu.no)  
-Phone: (+47) 46623172
-
-**Dr. Alok Mishra**  
-*Distinguished Professor*  
-Professor, Faculty of Engineering,  
-NTNU, Gjøvik 2815, Norway  
-Email: [alok.mishra@ntnu.no](mailto:alok.mishra@ntnu.no)  
-Phone: (+47) 46665761
-
-**Dr. Are Strandlie**  
-*Distinguished Professor*  
-Professor, Faculty of Engineering,  
-NTNU, Gjøvik 2815, Norway  
-Email: [are.strandlie@ntnu.no](mailto:are.strandlie@ntnu.no)  
-Phone: (+47) 41000699
+**Nationality (Bangladeshi)**, **Permanent Residency (Norway)**
