@@ -19,7 +19,10 @@ main:
     url: /research/
   
   - title: "Teaching"
-    url: /teaching/       
+    url: /teaching/
+
+  #- title: "Explore"
+   # url: /explore/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
