@@ -299,6 +299,16 @@ I remain deeply grateful to my supervisors, Dr. Sudhansu Sekhar Singh, Dr. Micha
 </div>
 
 <div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
+  <span><strong>Brno University of Technology (VUT), Czech Republicy</strong></span>
+  <span>08.2024 – 01.2025</span>
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <span><em>Visiting Research Fellow, Department of Automation</em></span>
+  <span></span>
+</div>
+
+
+<div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
   <span><strong>Sanyo Engineering & Construction Inc., Japan</strong></span>
   <span>04.2018 – 01.2019</span>
 </div>
