@@ -1,3 +1,13 @@
+---
+permalink: /
+title: ""
+author_profile: true
+redirect_from: 
+  - /publications/
+  - /publications.html
+---
+
+
 ## Selected Publications
 
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
