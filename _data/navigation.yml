@@ -15,14 +15,14 @@ main:
   - title: "About"
     url: /about/
 
-  - title: "Research"
-    url: /research/
+  - title: "Publication"
+    url: /publication/
   
   - title: "Teaching"
     url: /teaching/
 
-  #- title: "Explore"
-   # url: /explore/
+  - title: "Awards"
+    url: /awards/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
