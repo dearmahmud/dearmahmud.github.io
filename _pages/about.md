@@ -38,7 +38,7 @@ I have published extensively in high-impact journals such as *IEEE Sensors Journ
 
 ## Teaching and Mentorship
 Teaching is central to my academic identity. Over the past 15 years, I have taught a wide range of engineering subjects across electrical, electronic, communication, and computer engineering. My approach emphasizes clarity, engagement, and relevance, ensuring that students connect theoretical principles to real-world engineering challenges.
-I have supervised more than 100 undergraduate and 20 postgraduate projects and theses, guiding students through research design, implementation, and dissemination. Many of these projects have evolved into industry collaborations or contributed to published research, reflecting my commitment to mentorship and scholarly growth.
+I have supervised more than 200 undergraduate and 20 postgraduate projects and theses, guiding students through research design, implementation, and dissemination. Many of these projects have evolved into industry collaborations or contributed to published research, reflecting my commitment to mentorship and scholarly growth.
 
 ## Leadership and Service
 Beyond the classroom and laboratory, I have played an active role in shaping academic programs and institutional systems. As Head of Department, I led curriculum modernization and quality assurance initiatives. As Director of ICT Cell, I spearheaded a university-wide digital transformation, implementing ERP systems for academic management and remote learning infrastructure. These roles have deepened my understanding of educational leadership and the strategic integration of technology in higher education.
