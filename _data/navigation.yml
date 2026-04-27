@@ -9,23 +9,20 @@
 
 main:
   
-  #- title: "Talks"
-  #  url: /talks/    
-  
   - title: "About"
     url: /about/
 
-  - title: "Research"
-    url: /research/
+  - title: "Publications"
+    url: /publications/
   
   - title: "Teaching"
     url: /teaching/       
-        
-  #- title: "Blog Posts"
-  #  url: /year-archive/
     
   - title: "Resume"
     url: /cv/
+
+    - title: "Contact"
+    url: /contact/
     
   # - title: "CV"
   #   url: /cv-json/
