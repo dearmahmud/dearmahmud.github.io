@@ -136,16 +136,12 @@ redirect_from:
     <div style="margin-left: 20px;">(2023)</div>
   </div>
 
-
-
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
       I. Khan, Michael Cheffena Gebresilassie, <strong>Mohammad Mahmudul Hasan</strong>, “Data Aided Channel Estimation for MIMO-OFDM Wireless Systems Using Reliable Carriers”, <strong>IEEE Access</strong>, II, pp. 47836–47847, 2023.
     </div>
     <div style="margin-left: 20px;">(2023)</div>
   </div>
-
-
 
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
@@ -154,16 +150,12 @@ redirect_from:
     <div style="margin-left: 20px;">(2018)</div>
   </div>
 
-
-
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
       <strong>Mohammad Mahmudul Hasan</strong>, Mohammad Mahmudul Hasan Faisal (2016). “TGCC for PAPR Reduction in OFDM Systems over the Nonlinearity of SSPA and Wireless Fading Channels”, <strong>Circuits, Systems, and Signal Processing</strong>, 35(8), pp. 2855–2880, 2015.
     </div>
     <div style="margin-left: 20px;">(2015)</div>
   </div>
-
-
 
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
@@ -181,15 +173,12 @@ redirect_from:
     <div style="margin-left: 20px;">(2014)</div>
   </div>
 
-
-
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
       <strong>Mohammad Mahmudul Hasan</strong>, “A New PAPR Reduction Scheme for OFDM Systems Based on Gamma Correction”, <strong>Circuits, Systems, and Signal Processing</strong>, 33(5), pp. 1655-1668, 2014.
     </div>
     <div style="margin-left: 20px;">(2014)</div>
   </div>
-
 
 
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
@@ -207,8 +196,6 @@ redirect_from:
     </div>
     <div style="margin-left: 20px;">(2013)</div>
   </div>
-
-
 
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
@@ -291,17 +278,15 @@ redirect_from:
   <span>07.2010 – 12.2010</span>
 </div>
 
-
 ---
 
 ## Honors and Awards
-
 <div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
   <span><strong>Research Recognition</strong></span>
   <span>2025</span>
 </div>
 <div style="display: flex; justify-content: space-between;">
-  <span>Nominated for Best Doctoral Thesis in Sensors</span>
+  <span>Nominated for Best Doctoral Thesis in Sensors</span><br>
   <span>Norwegian University of Science and Technology</span>
 </div>
 
