@@ -67,12 +67,6 @@ I remain deeply grateful to my supervisors, Dr. Sudhansu Sekhar Singh, Dr. Micha
 <p style="margin: 5px 0 10px 0;"> <em>Doctor of Philosophy in Information and Communication Technology</em> <br> Faculty of Engineering </p>
 
 <div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
-  <span><strong>Brno University of Technology (VUT), Czech Republic</strong></span>
-  <span>2024 – 2025</span>
-</div>
-<p style="margin: 5px 0 10px 0;"> <em>Visiting Researcher in Design and Process Engineering</em> <br> Department of Automation </p>
-
-<div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
   <span><strong>KIIT University, India</strong></span>
   <span>2008 – 2010</span>
 </div>
