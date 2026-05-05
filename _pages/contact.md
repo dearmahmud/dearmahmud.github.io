@@ -15,9 +15,9 @@ I typically respond to academic and research‑related inquiries within a reason
 
 ## Other Profiles
 
-- LinkedIn: [linkedin.com/in/dearmahmud](https://www.linkedin.com/in/dearmahmud)
-- Google Scholar: [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=8ZDDF8MAAAAJ&view_op=list_works&sortby=pubdate)
-- ORCID: [0000‑0002‑5651‑5535](https://orcid.org/0000-0002-5651-5535)
+- **LinkedIn:** [linkedin.com/in/dearmahmud](https://www.linkedin.com/in/dearmahmud)
+- **Google Scholar:** [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=8ZDDF8MAAAAJ&view_op=list_works&sortby=pubdate)
+- **ORCID:** [0000‑0002‑5651‑5535](https://orcid.org/0000-0002-5651-5535)
 
 ---
 
