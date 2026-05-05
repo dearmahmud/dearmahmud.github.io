@@ -43,6 +43,6 @@ author_profile: true
   <span>2004–2010</span>
 </div>
 <div style="display: flex; justify-content: space-between;">
-  <span>Awarded for outstanding academic performance during B.Tech and M.Tech studies, KIIT University, India</span>
+  <span>Awarded for academic excellence during Bachelor’s and Master’s studies, KIIT University, India.</span>
 </div>
 ---
