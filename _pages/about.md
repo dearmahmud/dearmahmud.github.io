@@ -376,7 +376,7 @@ I remain deeply grateful to my supervisors, Dr. Sudhansu Sekhar Singh, Dr. Micha
   <span>2004–2010</span>
 </div>
 <div style="display: flex; justify-content: space-between;">
-  <span>Awarded for academic excellence during Bachelor’s and Master’s studies, KIIT University, India.</span>
+  <span>Awarded for academic excellence, Bachelor’s and Master’s studies, KIIT University, India.</span>
 </div>
 ---
 
