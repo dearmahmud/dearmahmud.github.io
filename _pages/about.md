@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 <p style="text-align: justify;">
-I am Dr. Mohammad Mahmudul Hasan, Associate Professor in the Department of Electrical and Electronic Engineering at the University of Information Technology and Sciences (UITS), Bangladesh. <br><br> 
-  
-My academic journey spans multiple countries, including Bangladesh, India, the Czech Republic, and Norway, and reflects a deep commitment to research, teaching, and innovation in electrical and communication engineering. I earned my bachelor’s and master’s degrees from KIIT University, India, graduating with distinction and receiving the Chancellor’s Gold Medal and Founder’s Gold Medal for academic excellence. I completed my Ph.D. in Information and Communication Technology at the Norwegian University of Science and Technology (NTNU) in 2025. My doctoral work focused on microwave-based intelligent sensors capable of simultaneous communication and environmental sensing, integrating RF engineering, adaptive signal processing, and machine learning. This research was nominated for NTNU’s Best Doctoral Thesis Award in Sensor Research. 
-<br><br>
-In 2024, I served as a Visiting Research Fellow at Brno University of Technology (VUT), exploring design automation and sensor intelligence for industrial and environmental systems. Over the past fifteen years, I have held academic leadership roles that shaped programs, people, and digital infrastructure: Head of Department, Director of ICT Cell, Advisor to the IT Office, Project Manager for an enterprise-wide ERP (UCAM) implementation, Member of the Finance Committee, and Editorial Board Member of the Journal of Science and Engineering. I have also worked as an industrial trainer with Sanyo Engineering and Construction Inc. (Suntec Group, Japan), connecting technical education to lived professional practice.
+I am Mohammad Mahmudul Hasan, and an Associate Professor in the Department of Electrical and Electronic Engineering (EEE) at the University of Information Technology and Sciences (UITS) , Bangladesh. <br><br> 
+
+I earned my bachelor’s (2004–2008) and master’s (2008–2010) degrees from KIIT University, India, and obtained my PhD (2022–2025) from the Norwegian University of Science and Technology (NTNU), Norway.  In 2024, I served as a visiting researcher at the Brno University of Technology (VUT), Czech Republic. I worked at UITS as an Assistant Professor from 2011–2022 and held several academic leadership roles, including Head of the Department (2019–2022), Director of the ICT Cell (2020–2022), Advisor to the IT Office (2018–2022), Project Manager (2020–2022) for the university’s Enterprise Resource Planning initiative, and Self-Assessment Committee Member (2017–2018), where I worked as a pedagogical learner and trainer. I also chaired several committees (2011–2022), served on the Finance Committee (2020–2022), the Editorial Board (2020–2022), and as Member Secretary to the Faculty (2018–2022). Additionally, I was an industrial trainer for Sanyo Engineering and Construction Inc. (Suntec Group Japan, 2018–2019). <br>
+
+My doctoral work focused on microwave-based intelligent sensors capable of simultaneous communication and environmental sensing, integrating RF engineering, adaptive signal processing, and machine learning. This research was nominated for NTNU’s Best Doctoral Thesis Award in Sensor Research. 
 
 </p>
 
