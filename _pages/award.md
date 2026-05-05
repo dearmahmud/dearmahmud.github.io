@@ -11,8 +11,7 @@ author_profile: true
   <span>2025</span>
 </div>
 <div style="display: flex; justify-content: space-between;">
-  <span>Nominated for Best Doctoral Thesis in Sensors</span><br>
-  <span>Norwegian University of Science and Technology</span>
+  <span>Nominated for Best Doctoral Thesis in Sensors</span>
 </div>
 
 <div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
@@ -39,4 +38,11 @@ author_profile: true
   <span>Awarded for securing the first position in Master of Technology, KIIT University, India</span>
 </div>
 
+<div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
+  <span><strong>Chancellor’s Merit Scholarship</strong></span>
+  <span>2004–2010</span>
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <span>Awarded for outstanding academic performance during B.Tech and M.Tech studies, KIIT University, India</span>
+</div>
 ---
