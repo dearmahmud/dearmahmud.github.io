@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 <p style="text-align: justify;">
+Welcome to my academic portfolio. This site provides an overview of my academic journey, research activities, and professional contributions. Please feel free to contact me regarding research collaboration, academic opportunities, or related discussions.
+<br>
 I am Mohammad Mahmudul Hasan, and an Associate Professor in the Department of Electrical and Electronic Engineering (EEE) at the University of Information Technology and Sciences (UITS), Bangladesh. I earned my bachelor’s (2004–2008) and master’s (2008–2010) degrees from KIIT University, India, and obtained my PhD (2022–2025) from the Norwegian University of Science and Technology (NTNU), Norway.  In 2024, I served as a visiting researcher at the Brno University of Technology (VUT), Czech Republic. I worked at UITS as an Assistant Professor from 2011–2022 and held several academic leadership roles, including Head of the Department (2019–2022), Director of the ICT Cell (2020–2022), Advisor to the IT Office (2018–2022), Project Manager (2020–2022) for the university’s Enterprise Resource Planning initiative, and Self-Assessment Committee Member (2017–2018), where I worked as a pedagogical learner and trainer. I also chaired several committees (2011–2022), served on the Finance Committee (2020–2022), the Editorial Board (2020–2022), and as Member Secretary to the Faculty (2018–2022). Additionally, I was an industrial trainer for Sanyo Engineering and Construction Inc. (Suntec Group Japan, 2018–2019).
 
 </p>
@@ -77,7 +79,13 @@ I remain deeply grateful to my supervisors, Dr. Sudhansu Sekhar Singh, Dr. Micha
 
 
 ## Selected Publications
-
+- <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <div style="text-align: justify; flex: 1;">
+      Inaamullah Khan, <strong>Mohammad Mahmudul Hasan</strong>, and Michael Cheffena, “Transmitter-assisted joint data-aided channel estimation and PAPR reduction scheme in wireless fading channels”, <strong>Scientific Reports</strong>, 16, 8015, 2026.
+    </div>
+    <div style="margin-left: 20px;">(2025)</div>
+  </div>
+  
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
       <strong>Mohammad Mahmudul Hasan</strong>, Onur Alev, Pavel Skrabanek, Gabriela Soukupová, Fatima Hassouna, and Michael Cheffena Gebresilassie, “Microwave MIMO E-Nose for Wireless Communication and Selective Detection of VOC Mixtures with Concentration Estimation”, <strong>ACS Sensors</strong>, 2025.
