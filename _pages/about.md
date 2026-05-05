@@ -44,7 +44,10 @@ Beyond the classroom and laboratory, I have played an active role in shaping aca
 My academic journey has been enriched by international collaborations and cross-cultural experiences. From India to Norway and the Czech Republic, I have worked with diverse teams on projects that combine engineering innovation with societal impact. I continue to seek partnerships that advance interdisciplinary research and global knowledge exchange.
 
 ## Beyond Academia
-Outside my professional work, I am passionate about exploring emerging technologies, open-source projects, and collaborative initiatives that challenge conventional thinking. I am fluent in Bengali, English, and Hindi, and currently learning Norwegian (Bokmål) to strengthen my engagement with Scandinavian research communities.
+I am drawn to ideas that sit slightly outside established boundaries. I enjoy following emerging technologies, experimenting with open-source tools, and engaging in conversations that cut across disciplines. Much of my thinking is shaped by exploring how systems behave in practice, not only how they appear on paper.
+
+Language and culture play an important role in how I connect with research communities. I am fluent in Bengali, English, Hindi, and Arabic, and I am currently learning Norwegian to deepen my engagement with Scandinavian academic environments.
+
 
 ## Acknowledgments
 I remain deeply grateful to my supervisors, Dr. Sudhansu Sekhar Singh, Dr. Michael Cheffena Gebresilassie, Dr. Pavel Škrabánek, and Dr. Sule Yildirim Yayilgan, and to all others whose mentorship has shaped not only my research but also my approach to scientific inquiry. Their guidance continues to inspire my pursuit of meaningful innovation and lasting impact.
