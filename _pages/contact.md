@@ -7,7 +7,7 @@ author_profile: true
 
 You are welcome to get in touch with me regarding research collaboration, academic opportunities, or professional matters. The most reliable way to reach me is via email:
 
-📧 Email: [dearmahmud@gmail.com](dearmahmud@gmail.com)
+📧 Email: [dearmahmud@gmail.com](mailto:dearmahmud@gmail.com)
 
 I typically respond to academic and research‑related inquiries within a reasonable time.
 
