@@ -28,7 +28,7 @@ redirect_from:
 
 <div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
   <span><strong>KIIT University, India</strong></span>
-  <span>208 – 2010</span>
+  <span>2008 – 2010</span>
 </div>
 <p style="margin: 5px 0 10px 0;"> <em>Master of Technology in Communication Systems Engineering</em> <br> Department of Electronics and Telecommunication Engineering </p>
 
@@ -41,6 +41,14 @@ redirect_from:
 
 
 ## Selected Publications
+
+- <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <div style="text-align: justify; flex: 1;">
+      Inaamullah Khan, <strong>Mohammad Mahmudul Hasan</strong>, and Michael Cheffena, “Transmitter-assisted joint data-aided channel estimation and PAPR reduction scheme in wireless fading channels”, <strong>Scientific Reports</strong>, 16, 8015, 2026.
+    </div>
+    <div style="margin-left: 20px;">(2025)</div>
+  </div>
+
 
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
@@ -286,8 +294,7 @@ redirect_from:
   <span>2025</span>
 </div>
 <div style="display: flex; justify-content: space-between;">
-  <span>Nominated for Best Doctoral Thesis in Sensors<br>
-  Norwegian University of Science and Technology</span>
+  <span>Nominated for Best Doctoral Thesis in Sensors</span>
 </div>
 
 <div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
@@ -314,7 +321,15 @@ redirect_from:
   <span>Awarded for securing the first position in Master of Technology, KIIT University, India</span>
 </div>
 
+<div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
+  <span><strong>Chancellor’s Merit Scholarship</strong></span>
+  <span>2004–2010</span>
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <span>Awarded for academic excellence during Bachelor’s and Master’s studies, KIIT University, India.</span>
+</div>
 ---
+
 
 ## Professional Certifications
 
@@ -357,6 +372,7 @@ redirect_from:
 - Bengali (Native)
 - English (Fluent)
 - Hindi (Fluent)
+- Arabic (A1)
 - Norsk-Bokmål (Level 1)
 
 ---
