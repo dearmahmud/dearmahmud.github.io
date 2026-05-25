@@ -330,6 +330,25 @@ redirect_from:
 </div>
 ---
 
+## Research Projects
+
+<div style="margin-top: 20px; display: flex; justify-content: space-between;">
+  <span><strong>Machine Learning Assisted Signal Processing for Antenna-Sensor Array (MLSP-ASA)</strong></span>
+  <span>2024–2025</span>
+</div>
+<div>
+  Member, Research Council of Norway (Project No. 353890)
+</div>
+
+<div style="margin-top: 20px; display: flex; justify-content: space-between;">
+  <span><strong>Air Quality Monitoring Exploiting Massive Multiple-Input Multiple-Output Antennas (AQMA)</strong></span>
+  <span>2022–2025</span>
+</div>
+<div>
+  Member, Research Council of Norway (Project No. 324061)
+</div>
+
+---
 
 ## Professional Certifications
 
