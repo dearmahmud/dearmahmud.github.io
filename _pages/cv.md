@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: >
   Curriculum Vitae 
   <a href="/files/cv.pdf" target="_blank" rel="noopener noreferrer" style="margin-left: 10px; text-decoration: none;" title="Download CV">
