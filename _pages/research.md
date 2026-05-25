@@ -3,7 +3,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-<p style="text-align: justify;"> 
+<p style="text-align: justify;">
 My research focuses on wireless communication, RF sensing, antenna engineering, and sensing-oriented wireless systems for future ISAC and 6G applications. Over the years, my work has gradually evolved from conventional communication-system problems toward systems where communication hardware itself also functions as a sensing platform. I am particularly interested in antenna and microwave-based sensing systems that can be physically built, experimentally validated, and deployed under real operating conditions. Much of my work combines RF engineering, microwave sensing, SDR prototyping, embedded systems, signal processing, and lightweight machine-learning-based inference using experimentally measured data rather than simulation-only environments. A recurring theme in my research is using wireless infrastructure not only to transmit information, but also to perceive and interpret the surrounding environment. This idea has shaped much of my recent work in RF sensing, multimodal sensing, and integrated sensing and communication architectures.
 </p>
 ---
