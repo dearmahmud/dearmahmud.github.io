@@ -5,67 +5,37 @@ permalink: /research/
 author_profile: true
 ---
 
-## Research Overview
-
-My work focuses on wireless systems that extract information about their environment while operating as communication hardware. The emphasis is on the physical layer, where antennas, waveforms, and signal processing are designed together under practical constraints.  
-
-The approach is straightforward: use the same RF chain for both sensing and communication, without relying on idealized assumptions or additional hardware blocks.
+My research focuses on wireless communication, RF sensing, antenna engineering, and sensing-oriented wireless systems for future ISAC and 6G applications. Over the years, my work has gradually evolved from conventional communication-system problems toward systems where communication hardware itself also functions as a sensing platform. I am particularly interested in antenna and microwave-based sensing systems that can be physically built, experimentally validated, and deployed under real operating conditions. Much of my work combines RF engineering, microwave sensing, SDR prototyping, embedded systems, signal processing, and lightweight machine-learning-based inference using experimentally measured data rather than simulation-only environments. A recurring theme in my research is using wireless infrastructure not only to transmit information, but also to perceive and interpret the surrounding environment. This idea has shaped much of my recent work in RF sensing, multimodal sensing, and integrated sensing and communication architectures.
 
 ---
 
-## OFDM and Communication Systems
+## Early Work in Wireless Communication Systems
 
-I started with MIMO-OFDM systems, working on problems that remain relevant in current wireless standards. The focus was on improving system behavior while maintaining implementability.
-
-I developed data-aided channel estimation methods that combine pilot symbols with reliable data subcarriers. This improves estimation accuracy and reduces pilot overhead compared to classical approaches. In parallel, I worked on peak-to-average power ratio reduction using companding, orthogonal basis functions, and predictive filtering. These methods reduce PAPR while preserving spectral efficiency and error performance.
-
-I also explored physical-layer security through multilevel chaotic encryption schemes integrated into the signal structure. This work reinforced a consistent view of system design: performance, efficiency, and security must be addressed together.
+My earlier research focused on communication-system design, particularly MIMO-OFDM systems. During this period, I worked on channel estimation, PAPR reduction, signal reliability, and physical-layer security. One part of the work involved data-aided channel estimation methods that combined pilot symbols with reliable data carriers to improve estimation accuracy while reducing pilot overhead. I also explored several PAPR reduction techniques using predictive filtering, companding, precoding, and orthogonal basis methods under nonlinear amplifier and fading-channel conditions. Alongside this, I worked on physical-layer security using chaotic encryption integrated into OFDM structures. Although these problems addressed different aspects of communication systems, they shared the same engineering objective: improving wireless-system performance while keeping the solutions computationally practical. This period gave me a strong foundation in communication theory, signal processing, and wireless-system design.
 
 ---
 
-## RF Sensing Using Antenna Systems
+## Transition Toward RF Sensing
 
-My research direction shifted toward sensing when I began working with antenna structures whose electromagnetic response changes with the surrounding environment.  
-
-In these systems, the antenna acts as both radiator and sensor. This allows communication signals to carry environmental information without modifying the system architecture.
-
-The main outcome of this work is that sensing can be embedded directly into RF hardware instead of treated as a separate module.
+My research direction changed significantly during my PhD at the Norwegian University of Science and Technology (NTNU), where I worked on the AQMA project funded by the Research Council of Norway. During this period, I became increasingly interested in whether communication hardware itself could operate as a sensing system. Instead of treating antennas only as radiating structures, I started exploring whether their electromagnetic behavior could also be used to detect and characterize the surrounding environment. That shift gradually moved my work toward microwave sensing, antenna-based sensing systems, and integrated sensing and communication. The research combined RF engineering, electromagnetics, microwave sensing, signal processing, and machine learning. I worked extensively with CST, HFSS, COMSOL, and ADS for antenna and RF-system design, while MATLAB and Python were used for signal processing and inference development. A large part of the work was experimental. During my PhD, I fabricated and tested more than 500 antenna prototypes using PCB milling systems and carried out extensive RF measurements and laboratory validation. I also contributed to the development of wireless sensing laboratories, PCB fabrication facilities, and AI-oriented sensing infrastructure. One conclusion became increasingly clear during this work: future wireless systems will likely integrate sensing directly into the physical layer instead of treating it as a separate subsystem.
 
 ---
 
-## Microwave Chemical Sensing
+## Microwave Chemical Sensing and MIMO RF Sensing
 
-During my PhD, I developed microwave sensing systems using antenna structures functionalized with advanced materials, including MoS₂, MoS₂/MoOₓ heterostructures, molecularly imprinted polymers, and carbon-nanotube composites.
-
-These sensors operate through changes in electromagnetic properties instead of resistance. The result is faster response, improved stability, and direct compatibility with wireless interrogation.
-
-I demonstrated detection of volatile organic compounds such as methanol, ethanol, and isopropanol, with detection limits below safety thresholds and stable behavior over extended periods.
+A major part of my doctoral research focused on microwave sensing systems using antenna structures functionalized with advanced sensing materials, including MoS₂, MoS₂/MoOₓ heterostructures, molecularly imprinted polymers, and carbon-nanotube composites. Unlike conventional resistive sensors, these systems operate through changes in electromagnetic behavior, making them naturally compatible with wireless interrogation and RF-system integration. Using these approaches, I demonstrated selective detection of volatile organic compounds such as methanol, ethanol, and isopropanol under room-temperature operation. An important direction that emerged from this work was extending single sensing elements into MIMO sensing architectures. This introduced several practical challenges, including mutual coupling, cross-sensitivity, interference between sensing elements, and stable inference under noisy measurement conditions. To address these problems, I worked on compact antenna structures together with learning-based inference models trained directly on experimentally measured RF data. This work eventually led to the development of a microwave MIMO electronic nose system capable of simultaneous sensing and communication within the same framework. The research resulted in multiple journal publications, startup funding, ongoing patent evaluation, and nomination of my PhD thesis for a Best Doctoral Thesis Award in sensor research.
 
 ---
 
-## MIMO RF Sensing Systems
+## Machine Learning and Experimental Inference
 
-A key outcome of this work is a microwave MIMO sensing framework, where multiple antenna elements are used jointly to detect and distinguish chemical species.
-
-Extending from single sensors to arrays introduced several issues, including mutual coupling, cross-sensitivity, and interaction between sensing elements. These were addressed through compact antenna design and inference models trained on measured RF data.
-
-The resulting system functions as a microwave electronic nose capable of multi-gas detection and concentration estimation while maintaining communication functionality. This work led to several journal publications, a PhD thesis nomination, and ongoing patent evaluation.
+Machine learning in my work is mainly used as a practical inference layer built on top of RF and electromagnetic behavior. I am more interested in physically meaningful and experimentally stable models than purely black-box architectures disconnected from the sensing hardware itself. Most of my work therefore combines physics-aware feature extraction with lightweight learning-based inference. The focus has included classification, concentration estimation, adaptive inference, multimodal fusion, and learning under practical noise and channel uncertainty. All models are trained and validated using experimentally measured data rather than synthetic-only datasets. I have also worked with SDR-based prototyping using USRP platforms, embedded systems, FPGA-assisted implementations, and real-time inference pipelines for deployable sensing systems.
 
 ---
 
-## Machine Learning in Practice
+## Current Research Direction
 
-Machine learning is used as an inference layer built on top of electromagnetic behavior.
-
-Feature design follows physical understanding of the system, and models are kept small enough for stable and interpretable operation. All models are trained and tested on measured data. The focus is on classification, regression, and adaptive estimation using Python and MATLAB.
-
----
-
-## Systems and Applications
-
-The work is carried out at the system level, from RF hardware to signal processing and inference.  
-
-Applications include air quality monitoring, food safety, and health-related sensing. A broader direction is to extend these concepts to antenna arrays and massive MIMO systems, where wireless infrastructure can also serve as a distributed sensing platform.
+My current research focuses on deployable integrated sensing and communication systems for future wireless infrastructure. One major direction involves replacing bulky VNA-based RF sensing systems with compact on-chip RF readout architectures that are more suitable for scalable deployment. Another direction involves combining RF sensing with computer vision and multimodal inference to improve robustness and semantic awareness in complex environments. I am also interested in UAV-assisted ISAC systems for applications such as traffic monitoring, environmental sensing, disaster response, and infrastructure-limited communication. More broadly, I am interested in how future wireless networks can evolve from passive communication infrastructure into intelligent distributed sensing systems capable of interacting with their physical environment in real time.
 
 ---
 
@@ -79,12 +49,6 @@ Applications include air quality monitoring, food safety, and health-related sen
 
 ---
 
-## Current Direction
+## Long-Term Research Vision
 
-Current work focuses on integrated sensing and communication under practical constraints. This includes sensing from communication signals, modeling hardware impairments, and building lightweight inference systems that operate on real data.
-
----
-
-## Long-Term Direction
-
-The long-term direction is to develop wireless systems that produce environmental information as part of normal operation. This aligns with integrated sensing and communication for 6G, where sensing, communication, and system-level decisions are coupled within the same architecture.
+My long-term research goal is to contribute to wireless systems where sensing, communication, and machine intelligence operate within the same architecture instead of existing as isolated subsystems. I believe future 6G systems will increasingly move toward environment-aware and context-aware wireless infrastructure, where communication networks continuously interact with the physical world rather than simply transporting data between devices. My work aims to contribute to that transition through experimentally validated, hardware-aware, and practically deployable sensing and communication systems.
