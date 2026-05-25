@@ -4,11 +4,13 @@ permalink: /contact/
 author_profile: true
 ---
 
-You are welcome to get in touch with me regarding research collaboration, academic opportunities, or professional matters. The most reliable way to reach me is via email:
+I welcome discussions regarding research collaboration, academic opportunities, and technical projects related to wireless communication, RF sensing, signal processing, and intelligent sensing systems.
+
+The best way to reach me is via email:
 
 📧 Email: [dearmahmud@gmail.com](mailto:dearmahmud@gmail.com)
 
-I typically respond to academic and research‑related inquiries within a reasonable time.
+I usually respond to academic and research-related inquiries as promptly as possible.
 
 ---
 
@@ -16,8 +18,9 @@ I typically respond to academic and research‑related inquiries within a reason
 
 - **LinkedIn:** [linkedin.com/in/dearmahmud](https://www.linkedin.com/in/dearmahmud)
 - **Google Scholar:** [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=8ZDDF8MAAAAJ&view_op=list_works&sortby=pubdate)
-- **ORCID:** [0000‑0002‑5651‑5535](https://orcid.org/0000-0002-5651-5535)
+- **ORCID:** [0000-0002-5651-5535](https://orcid.org/0000-0002-5651-5535)
+- **Office:** [Associate Professor, Department of Electrical and Electronic Engineering](https://uits.ac.bd/public/faculty-profile-cse/54)
 
 ---
 
-I look forward to connecting with colleagues and researchers who share an interest in sensing‑centric wireless systems, integrated sensing and communication (ISAC), and applied AI in engineering systems.
+I particularly enjoy discussions that connect theory, experimentation, RF hardware, and real-world deployment. I am always interested in interacting with colleagues, researchers, and students working on sensing-oriented wireless systems, ISAC, microwave sensing, and related interdisciplinary research areas.
