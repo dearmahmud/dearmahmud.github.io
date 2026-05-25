@@ -377,17 +377,17 @@ I remain deeply grateful to my supervisors, Dr. Sudhansu Sekhar Singh, Dr. Micha
 
 ## Research Projects
 
-<div style="margin-top: 20px; display: flex; justify-content: space-between;">
+<div style="margin-top: 20px; display: flex; justify-content: space-between; gap: 20px;">
   <span><strong>Machine Learning Assisted Signal Processing for Antenna-Sensor Array (MLSP-ASA)</strong></span>
-  <span>2024 – 2025</span>
+  <span style="white-space: nowrap; flex-shrink: 0;">2024–2025</span>
 </div>
 <div>
   Member, Research Council of Norway (Project No. 353890)
 </div>
 
-<div style="margin-top: 20px; display: flex; justify-content: space-between;">
+<div style="margin-top: 20px; display: flex; justify-content: space-between; gap: 20px;">
   <span><strong>Air Quality Monitoring Exploiting Massive Multiple-Input Multiple-Output Antennas (AQMA)</strong></span>
-  <span>2022 – 2025</span>
+  <span style="white-space: nowrap; flex-shrink: 0;">2022–2025</span>
 </div>
 <div>
   Member, Research Council of Norway (Project No. 324061)
