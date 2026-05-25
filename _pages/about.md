@@ -48,14 +48,10 @@ I am drawn to ideas that sit slightly outside established boundaries. I enjoy fo
 
 Language and culture play an important role in how I connect with research communities. I am fluent in Bengali, English, Hindi, and Arabic, and I am currently learning Norwegian to deepen my engagement with Scandinavian academic environments.
 
-
 ## Acknowledgments
 I remain deeply grateful to my supervisors, Dr. Sudhansu Sekhar Singh, Dr. Michael Cheffena Gebresilassie, Dr. Pavel Škrabánek, and Dr. Sule Yildirim Yayilgan, and to all others whose mentorship has shaped not only my research but also my approach to scientific inquiry. Their guidance continues to inspire my pursuit of meaningful innovation and lasting impact.
 
-
 </div>
-
-
 
 
 ## Education
@@ -77,7 +73,6 @@ I remain deeply grateful to my supervisors, Dr. Sudhansu Sekhar Singh, Dr. Micha
   <span>2004 – 2008</span>
 </div>
 <p style="margin: 5px 0 10px 0;"> <em>Bachelor of Technology in Electronics and Telecommunication Engineering</em> <br> Department of Electronics and Telecommunication Engineering </p>
-
 
 
 ## Selected Publications
