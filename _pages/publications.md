@@ -8,7 +8,7 @@ author_profile: true
     <div style="text-align: justify; flex: 1;">
       Inaamullah Khan, <strong>Mohammad Mahmudul Hasan</strong>, and Michael Cheffena, “Transmitter-assisted joint data-aided channel estimation and PAPR reduction scheme in wireless fading channels”, <strong>Scientific Reports</strong>, 16, 8015, 2026.
     </div>
-    <div style="margin-left: 20px;">(2025)</div>
+    <div style="margin-left: 20px;">(2026)</div>
   </div>
 
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
