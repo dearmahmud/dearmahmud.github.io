@@ -289,40 +289,40 @@ redirect_from:
 
 ## Honors and Awards
 
-<div style="margin-top: 20px; display: flex; justify-content: space-between; gap: 20px;">
-  <span><strong>Research Recognition</strong></span>
+<div style="margin-top: 20px; display: flex; justify-content: space-between;">
+  <span style="flex: 1; padding-right: 20px;"><strong>Research Recognition</strong></span>
   <span style="white-space: nowrap; flex-shrink: 0;">2025</span>
 </div>
 <div>
   Nominated for Best Doctoral Thesis in Sensors
 </div>
 
-<div style="margin-top: 20px; display: flex; justify-content: space-between; gap: 20px;">
-  <span><strong>Research Grant</strong></span>
+<div style="margin-top: 20px; display: flex; justify-content: space-between;">
+  <span style="flex: 1; padding-right: 20px;"><strong>Research Grant</strong></span>
   <span style="white-space: nowrap; flex-shrink: 0;">2024</span>
 </div>
 <div>
   Awarded 146,000 NOK, Research Council of Norway
 </div>
 
-<div style="margin-top: 20px; display: flex; justify-content: space-between; gap: 20px;">
-  <span><strong>Chancellor’s Gold Medal</strong></span>
+<div style="margin-top: 20px; display: flex; justify-content: space-between;">
+  <span style="flex: 1; padding-right: 20px;"><strong>Chancellor’s Gold Medal</strong></span>
   <span style="white-space: nowrap; flex-shrink: 0;">2010</span>
 </div>
 <div>
   Awarded for securing the highest CGPA (10.0/10.0), KIIT University, India
 </div>
 
-<div style="margin-top: 20px; display: flex; justify-content: space-between; gap: 20px;">
-  <span><strong>Founder’s Gold Medal</strong></span>
+<div style="margin-top: 20px; display: flex; justify-content: space-between;">
+  <span style="flex: 1; padding-right: 20px;"><strong>Founder’s Gold Medal</strong></span>
   <span style="white-space: nowrap; flex-shrink: 0;">2010</span>
 </div>
 <div>
   Awarded for securing first position in the Master of Technology program, KIIT University, India
 </div>
 
-<div style="margin-top: 20px; display: flex; justify-content: space-between; gap: 20px;">
-  <span><strong>Chancellor’s Merit Scholarship</strong></span>
+<div style="margin-top: 20px; display: flex; justify-content: space-between;">
+  <span style="flex: 1; padding-right: 20px;"><strong>Chancellor’s Merit Scholarship</strong></span>
   <span style="white-space: nowrap; flex-shrink: 0;">2004–2010</span>
 </div>
 <div>
@@ -333,16 +333,16 @@ redirect_from:
 
 ## Research Projects
 
-<div style="margin-top: 20px; display: flex; justify-content: space-between; gap: 20px;">
-  <span><strong>Machine Learning Assisted Signal Processing for Antenna-Sensor Array (MLSP-ASA)</strong></span>
+<div style="margin-top: 20px; display: flex; justify-content: space-between;">
+  <span style="flex: 1; padding-right: 20px;"><strong>Machine Learning Assisted Signal Processing for Antenna-Sensor Array (MLSP-ASA)</strong></span>
   <span style="white-space: nowrap; flex-shrink: 0;">2024–2025</span>
 </div>
 <div>
   Member, Research Council of Norway (Project No. 353890)
 </div>
 
-<div style="margin-top: 20px; display: flex; justify-content: space-between; gap: 20px;">
-  <span><strong>Air Quality Monitoring Exploiting Massive Multiple-Input Multiple-Output Antennas (AQMA)</strong></span>
+<div style="margin-top: 20px; display: flex; justify-content: space-between;">
+  <span style="flex: 1; padding-right: 20px;"><strong>Air Quality Monitoring Exploiting Massive Multiple-Input Multiple-Output Antennas (AQMA)</strong></span>
   <span style="white-space: nowrap; flex-shrink: 0;">2022–2025</span>
 </div>
 <div>
@@ -351,39 +351,38 @@ redirect_from:
 
 ---
 
-
 ## Professional Certifications
 
-<div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
-  <span><strong>Brno University of Technology, Czech Republic</strong></span>
-  <span>08.2024 – 01.2025</span>
+<div style="margin-top: 20px; display: flex; justify-content: space-between;">
+  <span style="flex: 1; padding-right: 20px;"><strong>Brno University of Technology, Czech Republic</strong></span>
+  <span style="white-space: nowrap; flex-shrink: 0;">08.2024–01.2025</span>
 </div>
-<div style="display: flex; justify-content: space-between;">
-  <span>Professional Competence, Electrical Engineering (86) – NV No. 194/2022 Coll.</span>
-</div>
-
-<div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
-  <span><strong>GrameenPhone Ltd., Bangladesh</strong></span>
-  <span>07.2007 – 10.2007</span>
-</div>
-<div style="display: flex; justify-content: space-between;">
-  <span>Intern Engineer, Transmission Planning Division</span>
+<div>
+  Professional Competence, Electrical Engineering (86) – NV No. 194/2022 Coll.
 </div>
 
-<div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
-  <span><strong>All India Radio & Doordarshan (Prasar Bharati), India</strong></span>
-  <span>05.2007 – 07.2007</span>
+<div style="margin-top: 20px; display: flex; justify-content: space-between;">
+  <span style="flex: 1; padding-right: 20px;"><strong>GrameenPhone Ltd., Bangladesh</strong></span>
+  <span style="white-space: nowrap; flex-shrink: 0;">07.2007–10.2007</span>
 </div>
-<div style="display: flex; justify-content: space-between;">
-  <span>Industrial Training, Broadcasting Corporation of India</span>
+<div>
+  Intern Engineer, Transmission Planning Division
 </div>
 
-<div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
-  <span><strong>Red Hat Bhubaneswar, India</strong></span>
-  <span>04.2006 – 07.2006</span>
+<div style="margin-top: 20px; display: flex; justify-content: space-between;">
+  <span style="flex: 1; padding-right: 20px;"><strong>All India Radio & Doordarshan (Prasar Bharati), India</strong></span>
+  <span style="white-space: nowrap; flex-shrink: 0;">05.2007–07.2007</span>
 </div>
-<div style="display: flex; justify-content: space-between;">
-  <span>Industrial Training, Red Hat Linux RHEL 4</span>
+<div>
+  Industrial Training, Broadcasting Corporation of India
+</div>
+
+<div style="margin-top: 20px; display: flex; justify-content: space-between;">
+  <span style="flex: 1; padding-right: 20px;"><strong>Red Hat Bhubaneswar, India</strong></span>
+  <span style="white-space: nowrap; flex-shrink: 0;">04.2006–07.2006</span>
+</div>
+<div>
+  Industrial Training, Red Hat Linux RHEL 4
 </div>
 
 ---
