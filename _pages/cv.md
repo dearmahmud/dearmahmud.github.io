@@ -317,7 +317,7 @@ redirect_from:
   <span style="flex: 1; padding-right: 20px;"><strong>Founder’s Gold Medal</strong></span>
   <span style="white-space: nowrap; flex-shrink: 0;">2010</span>
 </div>
-<div>
+<div style="padding-right: 120px;">
   Awarded for securing first position in the Master of Technology program, KIIT University, India
 </div>
 
@@ -325,7 +325,7 @@ redirect_from:
   <span style="flex: 1; padding-right: 20px;"><strong>Chancellor’s Merit Scholarship</strong></span>
   <span style="white-space: nowrap; flex-shrink: 0;">2004–2010</span>
 </div>
-<div>
+<div style="padding-right: 120px;">
   Awarded for academic excellence during Bachelor’s and Master’s studies, KIIT University, India
 </div>
 
