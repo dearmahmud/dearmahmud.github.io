@@ -37,7 +37,7 @@ My research focuses on intelligent sensing and communication systems, machine le
 I have published extensively in high-impact journals such as *IEEE Sensors Journal, IEEE Transactions on Instrumentation and Measurement, ACS Sensors, Nature, and Sensors and Actuators A: Physical*. My work bridges theory and application, addressing challenges in wireless communication systems, adaptive antenna systems, molecularly imprinted polymer sensors, and physical-layer security in MIMO-OFDM networks.
 
 ## Teaching and Mentorship
-Teaching is central to my academic identity. Over the past 15 years, I have taught a wide range of engineering subjects across electrical, electronic, communication, and computer engineering. My approach emphasizes clarity, engagement, and relevance, ensuring that students connect theoretical principles to real-world engineering challenges.
+Teaching is central to my academic identity. Over the past 17 years, I have taught a wide range of engineering subjects across electrical, electronic, communication, and computer engineering. My approach emphasizes clarity, engagement, and relevance, ensuring that students connect theoretical principles to real-world engineering challenges.
 I have supervised more than 200 undergraduate and 20 postgraduate projects and theses, guiding students through research design, implementation, and dissemination. Many of these projects have evolved into industry collaborations or contributed to published research, reflecting my commitment to mentorship and scholarly growth.
 
 ## Leadership and Service
