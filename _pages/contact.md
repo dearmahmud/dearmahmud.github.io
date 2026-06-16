@@ -4,7 +4,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-I welcome discussions regarding research collaboration, academic opportunities, and technical projects related to wireless communication, RF sensing, signal processing, and intelligent sensing systems.
+I welcome discussions on research collaboration, academic opportunities, and technical projects related to wireless communication, RF sensing, signal processing, and intelligent sensing systems. I make every effort to respond to academic and research-related inquiries as promptly as possible. Please feel free to contact me if you are interested in collaboration, would like to discuss a research idea, seek technical input, or simply wish to connect around shared academic interests. I would be very pleased to hear from you.
 
 The best way to reach me is via email:
 
@@ -22,5 +22,3 @@ I usually respond to academic and research-related inquiries as promptly as poss
 - **Office:** [Associate Professor, Department of Electrical and Electronic Engineering](https://uits.ac.bd/public/faculty-profile-cse/54)
 
 ---
-
-I particularly enjoy discussions that connect theory, experimentation, RF hardware, and real-world deployment. I am always interested in interacting with colleagues, researchers, and students working on sensing-oriented wireless systems, ISAC, microwave sensing, and related interdisciplinary research areas.
