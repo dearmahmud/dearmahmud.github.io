@@ -7,15 +7,38 @@ author_profile: true
 
 {% include base_path %}
 
-A list of the main public pages on the site. For robots, there is also an [XML sitemap]({{ base_path }}/sitemap.xml).
+This page provides a complete index of the website.
 
-## Pages
+## Main Pages
+
 - [Home]({{ base_path }}/)
-- [Curriculum Vitae]({{ base_path }}/cv/)
-- [Publications]({{ base_path }}/publications/)
 - [Research]({{ base_path }}/research/)
-- [Teaching Philosophy]({{ base_path }}/teaching/)
-- [Portfolio]({{ base_path }}/portfolio/)
-- [Blog Posts]({{ base_path }}/year-archive/)
-- [Posts by Collection]({{ base_path }}/collection-archive/)
-- [Sitemap]({{ base_path }}/sitemap/)
+- [Publications]({{ base_path }}/publications/)
+- [Teaching]({{ base_path }}/teaching/)
+- [Awards & Honors]({{ base_path }}/award/)
+- [Curriculum Vitae]({{ base_path }}/cv/)
+- [Contact]({{ base_path }}/contact/)
+
+## Publications
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+## Teaching
+
+{% for post in site.teaching %}
+  {% include archive-single.html %}
+{% endfor %}
+
+## Portfolio
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
+
+## Blog Posts
+
+{% for post in site.posts %}
+  {% include archive-single.html %}
+{% endfor %}
