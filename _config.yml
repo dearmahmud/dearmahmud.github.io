@@ -38,7 +38,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=8ZDDF8MAAAAJ"
   impactstory      : # URL
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-5651-5535"
+  orcid            : "https://orcid.org/0000-0002-5651-5535"
   semantic         : # URL
   pubmed           : 
   researchgate     : "https://www.researchgate.net/profile/Mohammad-Mahmudul-Hasan/research"
@@ -60,7 +60,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  Instagram        : "dearmahmud"
+  instagram        : "dearmahmud"
   lastfm           : # Username
   linkedin         : "dearmahmud"
   mastodon         : # URL
@@ -150,7 +150,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  false # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
 
@@ -219,13 +219,12 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+
   publications:
     output: true
     permalink: /:collection/:path/
+
   portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
     output: true
     permalink: /:collection/:path/
 
@@ -276,16 +275,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
-
+      comments: true
 
 # Sass/SCSS
 sass:
