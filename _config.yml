@@ -8,13 +8,16 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "dark" # "default"
+site_theme               : "dark"
 title                    : "Mohammad Mahmudul Hasan, PhD"
 title_separator          : "-"
 name                     : &name "Mohammad Mahmudul Hasan"
-description              : &description "personal description"
-url                      : "https://dearmahmud.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+
+description              : &description "Associate Professor and Researcher specializing in wireless communications, RF sensing, microwave engineering, machine learning, and intelligent sensor systems."
+
+url                      : "https://dearmahmud.github.io"
+baseurl                  : ""
+
 repository               : "dearmahmud/dearmahmud.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
