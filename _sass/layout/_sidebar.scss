@@ -262,3 +262,14 @@
     }
   }
 }
+
+/* Firefox */
+.sidebar {
+  scrollbar-width: none;
+}
+
+/* Chrome, Edge, Safari */
+.sidebar::-webkit-scrollbar {
+  width: 0px;
+  height: 0px;
+}
