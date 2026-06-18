@@ -31,16 +31,12 @@ author_profile: true
     <div style="margin-left: 20px;">(2025)</div>
   </div>
 
-
-
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
       Onur Alev, <strong>Mohammad Mahmudul Hasan</strong>, E. T. Erruğrul, S. Birdoğan, O. Özdemir, E. Goldenberg and Michael Cheffena Gebresilassie, “Hydrothermally Synthesized Molybdenum disulfide Nanoflakes: Structural, Electrical, and Antenna-based Gas Sensing Characteristics”, <strong>Sensors & Actuators: A. Physical</strong>, 2025.
     </div>
     <div style="margin-left: 20px;">(2025)</div>
   </div>
-
-
 
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
@@ -49,16 +45,12 @@ author_profile: true
     <div style="margin-left: 20px;">(2025)</div>
   </div>
 
-
-
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
       <strong>Mohammad Mahmudul Hasan</strong>, Onur Alev and Michael Cheffena Gebresilassie, “Dual-Functional Antenna Sensor for Highly Sensitive and Selective Detection of Isopropanol Gas Using Optimized Molecularly Imprinted Polymers,” <strong>ACS Sensors</strong>, 2025 (Early Access).
     </div>
     <div style="margin-left: 20px;">(2025)</div>
   </div>
-
-
 
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
@@ -67,16 +59,12 @@ author_profile: true
     <div style="margin-left: 20px;">(2024)</div>
   </div>
 
-
-
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
       <strong>Mohammad Mahmudul Hasan</strong>, T. Cowen and Michael Cheffena Gebresilassie, “A Novel Molecularly Imprinted Polymer-Based Carbon Nanotube-Coated Microwave Sensor for Selective Detection of Methanol Gas,” <strong>IEEE Sensors Letters</strong>, 8(5), 6004904, 2024.
     </div>
     <div style="margin-left: 20px;">(2024)</div>
   </div>
-
-
 
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
@@ -85,16 +73,12 @@ author_profile: true
     <div style="margin-left: 20px;">(2024)</div>
   </div>
 
-
-
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
       <strong>Mohammad Mahmudul Hasan</strong>, Michael Cheffena Gebresilassie, “Adaptive Antenna Impedance Matching Using Low-Complexity Shallow Learning Model”, <strong>IEEE Access</strong>, II, pp. 74101–74111, 2023.
     </div>
     <div style="margin-left: 20px;">(2023)</div>
   </div>
-
-
 
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
@@ -103,16 +87,12 @@ author_profile: true
     <div style="margin-left: 20px;">(2023)</div>
   </div>
 
-
-
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
       I. Khan, Michael Cheffena Gebresilassie, <strong>Mohammad Mahmudul Hasan</strong>, “Data Aided Channel Estimation for MIMO-OFDM Wireless Systems Using Reliable Carriers”, <strong>IEEE Access</strong>, II, pp. 47836–47847, 2023.
     </div>
     <div style="margin-left: 20px;">(2023)</div>
   </div>
-
-
 
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
@@ -130,16 +110,12 @@ author_profile: true
     <div style="margin-left: 20px;">(2015)</div>
   </div>
 
-
-
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
       <strong>Mohammad Mahmudul Hasan</strong>, “PAR Reduction in SU/MU-MIMO OFDM Systems using OPF Precoding over the Nonlinearity of SSPA”, <strong>Wireless Personal Communications</strong>, 83(3), pp. 2225–2248, 2015.
     </div>
     <div style="margin-left: 20px;">(2015)</div>
   </div>
-
-
 
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
@@ -148,16 +124,12 @@ author_profile: true
     <div style="margin-left: 20px;">(2014)</div>
   </div>
 
-
-
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
       <strong>Mohammad Mahmudul Hasan</strong>, “A New PAPR Reduction Scheme for OFDM Systems Based on Gamma Correction”, <strong>Circuits, Systems, and Signal Processing</strong>, 33(5), pp. 1655-1668, 2014.
     </div>
     <div style="margin-left: 20px;">(2014)</div>
   </div>
-
-
 
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
@@ -166,16 +138,12 @@ author_profile: true
     <div style="margin-left: 20px;">(2014)</div>
   </div>
 
-
-
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
       <strong>Mohammad Mahmudul Hasan</strong>, “VLM Precoded SLM Technique for PAPR Reduction in OFDM Systems”, <strong>Wireless Personal Communications</strong>, 73(3), pp. 791-801, 2013.
     </div>
     <div style="margin-left: 20px;">(2013)</div>
   </div>
-
-
 
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
@@ -184,3 +152,6 @@ author_profile: true
     <div style="margin-left: 20px;">(2013)</div>
   </div>
 
+<p style="text-align: justify; margin-top: 10px;">
+For a full list of publications, please visit the [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=8ZDDF8MAAAAJ&view_op=list_works&sortby=pubdate).
+</p>
