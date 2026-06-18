@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p style="text-align: justify;">
-I am _Mohammad Mahmudul Hasan_, Associate Professor in the Department of Electrical and Electronic Engineering at the <strong>University of Information Technology and Sciences (UITS), Bangladesh. My research focuses on wireless communication systems, RF and microwave sensing, multi-antenna systems, integrated sensing and communication, and machine learning for intelligent sensing and wireless systems. I have more than 17 years of experience in teaching, research, and student supervision across Bangladesh, India, Norway, Japan, and the Czech Republic. I completed my <strong>PhD in Information and Communication Technology at the Norwegian University of Science and Technology (NTNU), Norway, in 2025, where my thesis was nominated for the <strong>Best Doctoral Thesis Award.
+I am _Mohammad Mahmudul Hasan_, Associate Professor in the Department of Electrical and Electronic Engineering at the University of Information Technology and Sciences (UITS), Bangladesh. My research focuses on wireless communication systems, RF and microwave sensing, multi-antenna systems, integrated sensing and communication, and machine learning for intelligent sensing and wireless systems. I have more than 17 years of experience in teaching, research, and student supervision across Bangladesh, India, Norway, Japan, and the Czech Republic. I completed my <strong>PhD in Information and Communication Technology at the Norwegian University of Science and Technology (NTNU), Norway, in 2025, where my thesis was nominated for the <strong>Best Doctoral Thesis Award.
 </p>
 
 <div style="margin-top: 20px; margin-bottom: 20px; text-align: center;">
