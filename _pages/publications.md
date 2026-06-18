@@ -153,5 +153,5 @@ author_profile: true
   </div>
 
 <p style="text-align: justify; margin-top: 10px;">
-For a full list of publications, please visit the [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=8ZDDF8MAAAAJ&view_op=list_works&sortby=pubdate).
+For a full list of publications, please visit the <a href="https://scholar.google.com/citations?hl=en&user=8ZDDF8MAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar Profile</a>.
 </p>
