@@ -14,7 +14,13 @@ redirect_from:
 
 ---
 
+## Biography
+<p style="text-align: justify;">
+I am Mohammad Mahmudul Hasan, an Associate Professor in the Department of Electrical and Electronic Engineering at the University of Information Technology and Sciences (UITS), Bangladesh. I have more than 17 years of experience in teaching, research, and student supervision at undergraduate and postgraduate levels across Bangladesh, India, Japan, the Czech Republic, and Norway. I completed my bachelor’s degree (2004–2008) and master’s degree (2008–2010) at KIIT University, India, and earned my PhD (2022–2025) from the Norwegian University of Science and Technology (NTNU), Norway. My PhD thesis was nominated for the Best Doctoral Thesis Award at NTNU in 2025. Earlier, I received double Gold Medals for academic performance during my master’s studies at KIIT University in 2010, along with the Chancellor’s Merit Scholarship for academic excellence throughout my bachelor’s and master’s studies (2004–2010). In 2024, I was a Visiting Researcher at Brno University of Technology (VUT), Czech Republic. <br><br>
+My research interests include wireless communication systems, 5G/6G networks, integrated sensing and communication, RF and microwave sensing, multi-antenna systems, machine learning for wireless and sensing systems, federated learning, and intelligent sensing systems. I have been affiliated with UITS since 2011 and am currently serving as an Associate Professor. During my tenure, I have held several academic leadership positions, including Head of the Department (2019–2022), Director of the Information and Communication Technology Cell (2020–2022), and Advisor to the ICT Cell (2018–2022). I have also contributed to institutional governance through roles such as Member of the Finance Committee (2020–2022), Editorial Board Member (2020–2022), Member of the Academic Council (2019–2022), and Member Secretary of the Faculty (2018–2022). Alongside my academic career, I also worked with industry as a consultant and technical trainer for Sanyo Engineering and Construction Inc. (Suntec Group, Japan) during 2018–2019. <br><br>
+I have also contributed to several funded research and institutional projects. These include Machine Learning Assisted Signal Processing for Antenna-Sensor Arrays as a Work Package Member (2024–2025), Air Quality Monitoring Exploiting Massive Multiple-Input Multiple-Output Antennas as a Work Package Member (2022–2025), the University Comprehensive Academic Management Software Implementation Project as Project Manager (2020–2022), and the Higher Education Quality Enhancement Project as a Member (2017–2018).
 
+</p>
 
 
 ## Education
@@ -351,22 +357,38 @@ redirect_from:
 
 ---
 
-## Research Projects
+## Research Projects and Initiatives
 
 <div style="margin-top: 20px; display: flex; justify-content: space-between;">
-  <span style="flex: 1; padding-right: 20px;"><strong>Machine Learning Assisted Signal Processing for Antenna-Sensor Array (MLSP-ASA)</strong></span>
+  <span style="flex: 1; padding-right: 20px;"><strong>Machine Learning Assisted Signal Processing for Antenna-Sensor Arrays</strong></span>
   <span style="white-space: nowrap; flex-shrink: 0;">2024–2025</span>
 </div>
 <div>
-  Member, Research Council of Norway (Project No. 353890)
+  Work Package Member, The Research Council of Norway (Project No. 353890)
 </div>
 
 <div style="margin-top: 20px; display: flex; justify-content: space-between;">
-  <span style="flex: 1; padding-right: 20px;"><strong>Air Quality Monitoring Exploiting Massive Multiple-Input Multiple-Output Antennas (AQMA)</strong></span>
+  <span style="flex: 1; padding-right: 20px;"><strong>Air Quality Monitoring Exploiting Massive Multiple-Input Multiple-Output Antennas</strong></span>
   <span style="white-space: nowrap; flex-shrink: 0;">2022–2025</span>
 </div>
 <div>
-  Member, Research Council of Norway (Project No. 324061)
+  Work Package Member, The Research Council of Norway (Project No. 324061)
+</div>
+
+<div style="margin-top: 20px; display: flex; justify-content: space-between;">
+  <span style="flex: 1; padding-right: 20px;"><strong>University Comprehensive Academic Management Software Implementation Project</strong></span>
+  <span style="white-space: nowrap; flex-shrink: 0;">2020–2022</span>
+</div>
+<div>
+  Project Manager, University of Information Technology and Sciences (UITS)
+</div>
+
+<div style="margin-top: 20px; display: flex; justify-content: space-between;">
+  <span style="flex: 1; padding-right: 20px;"><strong>Higher Education Quality Enhancement Project (HEQEP)</strong></span>
+  <span style="white-space: nowrap; flex-shrink: 0;">2017–2018</span>
+</div>
+<div>
+  Member, University Grants Commission, Bangladesh and the World Bank
 </div>
 
 ---
