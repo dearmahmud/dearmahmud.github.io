@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p style="text-align: justify;">
-I am Mohammad Mahmudul Hasan, Associate Professor in the Department of Electrical and Electronic Engineering at the University of Information Technology and Sciences (UITS), Bangladesh. Welcome to my academic portfolio. My research brings together wireless communication, RF and microwave sensing, multi-antenna systems, integrated sensing and communication, and machine learning for intelligent sensing systems. Over the past 17 years, I have had the privilege of teaching, conducting research, and supervising students across Bangladesh, India, Norway, Japan, and the Czech Republic.</em>.
+I am Mohammad Mahmudul Hasan, Associate Professor in the Department of Electrical and Electronic Engineering at the University of Information Technology and Sciences (UITS), Bangladesh. Welcome to my academic portfolio. My research brings together wireless communication, RF and microwave sensing, multi-antenna systems, integrated sensing and communication, and machine learning for intelligent sensing systems. Over the past 17 years, I have had the privilege of teaching, conducting research, and supervising students across Bangladesh, India, Norway, Japan, and the Czech Republic.
 </p>
 
 <div style="margin-top: 20px; margin-bottom: 20px; text-align: center;">
