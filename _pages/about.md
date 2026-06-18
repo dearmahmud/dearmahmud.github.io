@@ -53,92 +53,91 @@ My current work centers on the design of selective and intelligent sensing syste
 
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
-      Inaamullah Khan, <strong>Mohammad Mahmudul Hasan</strong>, and Michael Cheffena, “Transmitter-assisted joint data-aided channel estimation and PAPR reduction scheme in wireless fading channels”, <strong>Scientific Reports</strong>, 16, 8015, 2026.
+      Inaamullah Khan, Mohammad Mahmudul Hasan, and Michael Cheffena, “Transmitter-assisted joint data-aided channel estimation and PAPR reduction scheme in wireless fading channels”, Scientific Reports, 16, 8015, 2026.
     </div>
     <div style="margin-left: 20px;">(2026)</div>
   </div>
 
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
-      <strong>Mohammad Mahmudul Hasan</strong>, Onur Alev, Pavel Skrabanek, Gabriela Soukupová, Fatima Hassouna, and Michael Cheffena Gebresilassie, “Microwave MIMO E-Nose for Wireless Communication and Selective Detection of VOC Mixtures with Concentration Estimation”, <strong>ACS Sensors</strong>, 2025.
+      Mohammad Mahmudul Hasan, Onur Alev, Pavel Skrabanek, Gabriela Soukupová, Fatima Hassouna, and Michael Cheffena Gebresilassie, “Microwave MIMO E-Nose for Wireless Communication and Selective Detection of VOC Mixtures with Concentration Estimation”, ACS Sensors, 2025.
     </div>
     <div style="margin-left: 20px;">(2025)</div>
   </div>
 
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
-      <strong>Mohammad Mahmudul Hasan</strong>, Onur Alev, Pavel Skrabanek, and Michael Cheffena Gebresilassie, “Molecularly Imprinted Polymer-Based Electronic Nose for Ultrasensitive, Selective Detection and Concentration Estimation of VOC Mixtures”, <strong>IEEE Sensors Journal</strong>, 2025.
-    </div>
-    <div style="margin-left: 20px;">(2025)</div>
-  </div>
-
-
-- <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <div style="text-align: justify; flex: 1;">
-      I. Khan, <strong>Mohammad Mahmudul Hasan</strong>, Michael Cheffena Gebresilassie, “A Novel Low-Complexity Peak-Power-Assisted Data-Aided Channel Estimation Scheme for MIMO-OFDM Wireless Systems”, <strong> IEEE Open Journal of Signal Processing</strong>, 2025.
+      Mohammad Mahmudul Hasan, Onur Alev, Pavel Skrabanek, and Michael Cheffena Gebresilassie, “Molecularly Imprinted Polymer-Based Electronic Nose for Ultrasensitive, Selective Detection and Concentration Estimation of VOC Mixtures”, IEEE Sensors Journal, 2025.
     </div>
     <div style="margin-left: 20px;">(2025)</div>
   </div>
 
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
-      Onur Alev, <strong>Mohammad Mahmudul Hasan</strong>, E. T. Erruğrul, S. Birdoğan, O. Özdemir, E. Goldenberg and Michael Cheffena Gebresilassie, “Hydrothermally Synthesized Molybdenum disulfide Nanoflakes: Structural, Electrical, and Antenna-based Gas Sensing Characteristics”, <strong>Sensors & Actuators: A. Physical</strong>, 2025.
+      I. Khan, Mohammad Mahmudul Hasan, Michael Cheffena Gebresilassie, “A Novel Low-Complexity Peak-Power-Assisted Data-Aided Channel Estimation Scheme for MIMO-OFDM Wireless Systems”,  IEEE Open Journal of Signal Processing, 2025.
     </div>
     <div style="margin-left: 20px;">(2025)</div>
   </div>
 
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
-      <strong>Mohammad Mahmudul Hasan</strong>, T. Cowen, Onur Alev and Michael Cheffena Gebresilassie, “MIMO Microwave Sensor for Selective and Simultaneous Detection of Methanol and Ethanol Gases at Room Temperature,” <strong>IEEE Transactions on Instrumentation & Measurement</strong>, 2025.
+      Onur Alev, Mohammad Mahmudul Hasan, E. T. Erruğrul, S. Birdoğan, O. Özdemir, E. Goldenberg and Michael Cheffena Gebresilassie, “Hydrothermally Synthesized Molybdenum disulfide Nanoflakes: Structural, Electrical, and Antenna-based Gas Sensing Characteristics”, Sensors & Actuators: A. Physical, 2025.
     </div>
     <div style="margin-left: 20px;">(2025)</div>
   </div>
 
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
-      <strong>Mohammad Mahmudul Hasan</strong>, Onur Alev and Michael Cheffena Gebresilassie, “Dual-Functional Antenna Sensor for Highly Sensitive and Selective Detection of Isopropanol Gas Using Optimized Molecularly Imprinted Polymers,” <strong>ACS Sensors</strong>, 2025.
+      Mohammad Mahmudul Hasan, T. Cowen, Onur Alev and Michael Cheffena Gebresilassie, “MIMO Microwave Sensor for Selective and Simultaneous Detection of Methanol and Ethanol Gases at Room Temperature,” IEEE Transactions on Instrumentation & Measurement, 2025.
     </div>
     <div style="margin-left: 20px;">(2025)</div>
   </div>
 
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
-      <strong>Mohammad Mahmudul Hasan</strong>, Onur Alev, E. Goldenberg and Michael Cheffena Gebresilassie, “MoS2/MoOx Nanoflake-Based Dual-Functional Antenna Sensors for Highly Sensitive and Selective Detection of Volatile Organic Compounds,” <strong>ACS Applied Nano Materials</strong>, 7(21), pp. 25065–25077, 2024.
+      Mohammad Mahmudul Hasan, Onur Alev and Michael Cheffena Gebresilassie, “Dual-Functional Antenna Sensor for Highly Sensitive and Selective Detection of Isopropanol Gas Using Optimized Molecularly Imprinted Polymers,” ACS Sensors, 2025.
+    </div>
+    <div style="margin-left: 20px;">(2025)</div>
+  </div>
+
+- <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <div style="text-align: justify; flex: 1;">
+      Mohammad Mahmudul Hasan, Onur Alev, E. Goldenberg and Michael Cheffena Gebresilassie, “MoS2/MoOx Nanoflake-Based Dual-Functional Antenna Sensors for Highly Sensitive and Selective Detection of Volatile Organic Compounds,” ACS Applied Nano Materials, 7(21), pp. 25065–25077, 2024.
     </div>
     <div style="margin-left: 20px;">(2024)</div>
   </div>
 
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
-      <strong>Mohammad Mahmudul Hasan</strong>, T. Cowen and Michael Cheffena Gebresilassie, “A Novel Molecularly Imprinted Polymer-Based Carbon Nanotube-Coated Microwave Sensor for Selective Detection of Methanol Gas,” <strong>IEEE Sensors Letters</strong>, 8(5), 6004904, 2024.
+      Mohammad Mahmudul Hasan, T. Cowen and Michael Cheffena Gebresilassie, “A Novel Molecularly Imprinted Polymer-Based Carbon Nanotube-Coated Microwave Sensor for Selective Detection of Methanol Gas,” IEEE Sensors Letters, 8(5), 6004904, 2024.
     </div>
     <div style="margin-left: 20px;">(2024)</div>
   </div>
 
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
-      <strong>Mohammad Mahmudul Hasan</strong>, Onur Alev, E. Goldenberg and Michael Cheffena Gebresilassie, “A Novel Molybdenum Disulfide-Based High-Precision Microwave Sensor for Methanol Gas Detection at Room Temperature,” <strong>IEEE Microwave and Wireless Technology Letters</strong>, 34(6), pp. 691–694, 2024.
+      Mohammad Mahmudul Hasan, Onur Alev, E. Goldenberg and Michael Cheffena Gebresilassie, “A Novel Molybdenum Disulfide-Based High-Precision Microwave Sensor for Methanol Gas Detection at Room Temperature,” IEEE Microwave and Wireless Technology Letters, 34(6), pp. 691–694, 2024.
     </div>
     <div style="margin-left: 20px;">(2024)</div>
   </div>
 
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
-      <strong>Mohammad Mahmudul Hasan</strong>, Michael Cheffena Gebresilassie, “Adaptive Antenna Impedance Matching Using Low-Complexity Shallow Learning Model”, <strong>IEEE Access</strong>, II, pp. 74101–74111, 2023.
+      Mohammad Mahmudul Hasan, Michael Cheffena Gebresilassie, “Adaptive Antenna Impedance Matching Using Low-Complexity Shallow Learning Model”, IEEE Access, II, pp. 74101–74111, 2023.
     </div>
     <div style="margin-left: 20px;">(2023)</div>
   </div>
 
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
-      <strong>Mohammad Mahmudul Hasan</strong>, Michael Cheffena Gebresilassie, S. Petrovic, “Physical-layer Security Improvement in MIMO OFDM Systems using Multilevel Chaotic Encryption”, <strong>IEEE Access</strong>, II, pp. 64468–64475, 2023.
+      Mohammad Mahmudul Hasan, Michael Cheffena Gebresilassie, S. Petrovic, “Physical-layer Security Improvement in MIMO OFDM Systems using Multilevel Chaotic Encryption”, IEEE Access, II, pp. 64468–64475, 2023.
     </div>
     <div style="margin-left: 20px;">(2023)</div>
   </div>
 
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
-      I. Khan, Michael Cheffena Gebresilassie, <strong>Mohammad Mahmudul Hasan</strong>, “Data Aided Channel Estimation for MIMO-OFDM Wireless Systems Using Reliable Carriers”, <strong>IEEE Access</strong>, II, pp. 47836–47847, 2023.
+      I. Khan, Michael Cheffena Gebresilassie, Mohammad Mahmudul Hasan, “Data Aided Channel Estimation for MIMO-OFDM Wireless Systems Using Reliable Carriers”, IEEE Access, II, pp. 47836–47847, 2023.
     </div>
     <div style="margin-left: 20px;">(2023)</div>
   </div>
