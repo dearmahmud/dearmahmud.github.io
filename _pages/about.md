@@ -8,84 +8,86 @@ redirect_from:
 ---
 
 <p style="text-align: justify;">
-Welcome to my academic portfolio. This site provides an overview of my academic journey, research activities, and professional contributions. My work reflects a long‑term commitment to teaching, research, and institutional service within the engineering discipline. Please feel free to contact me regarding research collaboration, academic opportunities, or related discussions. <br><br>
-  I am Mohammad Mahmudul Hasan, an Associate Professor in the Department of Electrical and Electronic Engineering at the University of Information Technology and Sciences (UITS), Bangladesh. I have more than 17 years of experience in teaching, research, and student supervision at undergraduate and postgraduate levels across Bangladesh, India, Japan, the Czech Republic, and Norway. I completed my bachelor’s degree (2004–2008) and master’s degree (2008–2010) at KIIT University, India, and earned my PhD (2022–2025) from the Norwegian University of Science and Technology (NTNU), Norway. My PhD thesis was nominated for the Best Doctoral Thesis Award at NTNU in 2025. Earlier, I received double Gold Medals for academic performance during my master’s studies at KIIT University in 2010, along with the Chancellor’s Merit Scholarship for academic excellence throughout my bachelor’s and master’s studies (2004–2010). In 2024, I was a Visiting Researcher at Brno University of Technology (VUT), Czech Republic. <br><br>
-My research interests include wireless communication systems, 5G/6G networks, integrated sensing and communication, RF and microwave sensing, multi-antenna systems, machine learning for wireless and sensing systems, federated learning, and intelligent sensing systems. I have been affiliated with UITS since 2011 and am currently serving as an Associate Professor. During my tenure, I have held several academic leadership positions, including Head of the Department (2019–2022), Director of the Information and Communication Technology Cell (2020–2022), and Advisor to the ICT Cell (2018–2022). I have also contributed to institutional governance through roles such as Member of the Finance Committee (2020–2022), Editorial Board Member (2020–2022), Member of the Academic Council (2019–2022), and Member Secretary of the Faculty (2018–2022). Alongside my academic career, I also worked with industry as a consultant and technical trainer for Sanyo Engineering and Construction Inc. (Suntec Group, Japan) during 2018–2019. <br><br>
-I have also contributed to several funded research and institutional projects. These include Machine Learning Assisted Signal Processing for Antenna-Sensor Arrays as a Work Package Member (2024–2025), Air Quality Monitoring Exploiting Massive Multiple-Input Multiple-Output Antennas as a Work Package Member (2022–2025), the University Comprehensive Academic Management Software Implementation Project as Project Manager (2020–2022), and the Higher Education Quality Enhancement Project as a Member (2017–2018).
-<br><br>
-I welcome discussions on research collaboration, academic opportunities, and technical projects related to wireless communication, RF sensing, signal processing, and intelligent sensing systems. I make every effort to respond to academic and research-related inquiries as promptly as possible. Please feel free to contact me if you are interested in collaboration, would like to discuss a research idea, seek technical input, or simply wish to connect around shared academic interests. I would be very pleased to hear from you.
+I am _Mohammad Mahmudul Hasan_, Associate Professor in the Department of Electrical and Electronic Engineering at the <strong>University of Information Technology and Sciences (UITS), Bangladesh. My research focuses on wireless communication systems, RF and microwave sensing, multi-antenna systems, integrated sensing and communication, and machine learning for intelligent sensing and wireless systems. I have more than 17 years of experience in teaching, research, and student supervision across Bangladesh, India, Norway, Japan, and the Czech Republic. I completed my <strong>PhD in Information and Communication Technology at the Norwegian University of Science and Technology (NTNU), Norway, in 2025, where my thesis was nominated for the <strong>Best Doctoral Thesis Award.
 </p>
 
-<div style="text-align: right; margin-top: -10px;">
-  <a href="javascript:void(0);" onclick="toggleMore()" style="font-weight: bold; text-decoration: none; color: #0073e6;">
-    Read more ...
-  </a>
+<div style="margin-top: 20px; margin-bottom: 20px; text-align: center;">
+  <a href="/resume/" style="font-weight: bold; text-decoration: none; margin: 0 12px;">Resume</a>
+  <a href="/publications/" style="font-weight: bold; text-decoration: none; margin: 0 12px;">Publications</a>
+  <a href="/research/" style="font-weight: bold; text-decoration: none; margin: 0 12px;">Research</a>
+  <a href="/teaching/" style="font-weight: bold; text-decoration: none; margin: 0 12px;">Teaching</a>
+  <a href="/contact/" style="font-weight: bold; text-decoration: none; margin: 0 12px;">Contact</a>
 </div>
 
-<div id="read-more" markdown="1" style="display: none; text-align: justify;">
+## Research Areas
 
-## Academic Vision
-My academic vision is rooted in the belief that engineering education should prepare students not only to master technical knowledge but also to apply it creatively and responsibly in real-world contexts. I strive to create learning environments that encourage curiosity, critical thinking, and collaboration, enabling students to become adaptive problem-solvers and lifelong learners.
+<ul style="text-align: justify;">
+  <li>Wireless communication systems and 5G/6G networks</li>
+  <li>Integrated sensing and communication</li>
+  <li>RF and microwave sensing</li>
+  <li>Multi-antenna and MIMO systems</li>
+  <li>Machine learning for wireless and sensing systems</li>
+  <li>Intelligent sensing technologies</li>
+</ul>
 
-## Research Interests
-My research focuses on intelligent sensing and communication systems, machine learning for signal processing, and energy-efficient architectures for IoT and edge computing. I am particularly interested in:
+## Selected Highlights
 
- - Integrated sensing and communication (ISAC) for next-generation wireless systems.
- - AI-assisted design automation for analog/RF circuits.
- - Low-power architectures for embedded and edge intelligence.
-
-I have published extensively in high-impact journals such as *IEEE Sensors Journal, IEEE Transactions on Instrumentation and Measurement, ACS Sensors, Nature, and Sensors and Actuators A: Physical*. My work bridges theory and application, addressing challenges in wireless communication systems, adaptive antenna systems, molecularly imprinted polymer sensors, and physical-layer security in MIMO-OFDM networks.
-
-## Teaching and Mentorship
-Teaching is central to my academic identity. Over the past 17 years, I have taught a wide range of engineering subjects across electrical, electronic, communication, and computer engineering. My approach emphasizes clarity, engagement, and relevance, ensuring that students connect theoretical principles to real-world engineering challenges.
-I have supervised more than 200 undergraduate and 20 postgraduate projects and theses, guiding students through research design, implementation, and dissemination. Many of these projects have evolved into industry collaborations or contributed to published research, reflecting my commitment to mentorship and scholarly growth.
-
-## Leadership and Service
-Beyond the classroom and laboratory, I have played an active role in shaping academic programs and institutional systems. As Head of Department, I led curriculum modernization and quality assurance initiatives. As Director of ICT Cell, I spearheaded a university-wide digital transformation, implementing ERP systems for academic management and remote learning infrastructure. These roles have deepened my understanding of educational leadership and the strategic integration of technology in higher education.
-
-## Global Engagement and Collaboration
-My academic journey has been enriched by international collaborations and cross-cultural experiences. From India to Norway and the Czech Republic, I have worked with diverse teams on projects that combine engineering innovation with societal impact. I continue to seek partnerships that advance interdisciplinary research and global knowledge exchange.
-
-## Beyond Academia
-I am drawn to ideas that sit slightly outside established boundaries. I enjoy following emerging technologies, experimenting with open-source tools, and engaging in conversations that cut across disciplines. Much of my thinking is shaped by exploring how systems behave in practice, not only how they appear on paper.
-
-Language and culture play an important role in how I connect with research communities. I am fluent in Bengali, English, Hindi, and Arabic, and I am currently learning Norwegian to deepen my engagement with Scandinavian academic environments.
-
-## Acknowledgments
-I remain deeply grateful to my supervisors, Dr. Sudhansu Sekhar Singh, Dr. Michael Cheffena Gebresilassie, Dr. Pavel Škrabánek, and Dr. Sule Yildirim Yayilgan, and to all others whose mentorship has shaped not only my research but also my approach to scientific inquiry. Their guidance continues to inspire my pursuit of meaningful innovation and lasting impact.
-
-</div>
-
-
-## Education
-
-<div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
-  <span><strong>Norwegian University of Science and Technology (NTNU), Norway</strong></span>
-  <span>2022 – 2025</span>
-</div>
-<p style="margin: 5px 0 10px 0;"> <em>Doctor of Philosophy in Information and Communication Technology</em> <br> Faculty of Engineering </p>
-
-<div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
-  <span><strong>KIIT University, India</strong></span>
-  <span>2008 – 2010</span>
-</div>
-<p style="margin: 5px 0 10px 0;"> <em>Master of Technology in Communication Systems Engineering</em> <br> Department of Electronics and Telecommunication Engineering </p>
-
-<div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
-  <span><strong>KIIT University, India</strong></span>
-  <span>2004 – 2008</span>
-</div>
-<p style="margin: 5px 0 10px 0;"> <em>Bachelor of Technology in Electronics and Telecommunication Engineering</em> <br> Department of Electronics and Telecommunication Engineering </p>
-
-
-## Selected Publications
-- <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <div style="text-align: justify; flex: 1;">
-      Inaamullah Khan, <strong>Mohammad Mahmudul Hasan</strong>, and Michael Cheffena, “Transmitter-assisted joint data-aided channel estimation and PAPR reduction scheme in wireless fading channels”, <strong>Scientific Reports</strong>, 16, 8015, 2026.
-    </div>
-    <div style="margin-left: 20px;">(2026)</div>
+<div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="text-align: justify; flex: 1;">
+    <strong>Associate Professor</strong>, University of Information Technology and Sciences (UITS), Bangladesh
   </div>
-  
+</div>
+
+<div style="margin-top: 12px; display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="text-align: justify; flex: 1;">
+    More than <strong>17 years of teaching, research, and student supervision</strong>
+  </div>
+</div>
+
+<div style="margin-top: 12px; display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="text-align: justify; flex: 1;">
+    <strong>PhD, NTNU, Norway</strong>, 2025
+  </div>
+</div>
+
+<div style="margin-top: 12px; display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="text-align: justify; flex: 1;">
+    <strong>Visiting Researcher</strong>, Brno University of Technology, Czech Republic, 2024–2025
+  </div>
+</div>
+
+<div style="margin-top: 12px; display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="text-align: justify; flex: 1;">
+    Research Council of Norway project member in <strong>ML-assisted antenna-sensor arrays</strong> and <strong>air-quality monitoring with massive MIMO</strong>
+  </div>
+</div>
+
+<div style="margin-top: 12px; display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="text-align: justify; flex: 1;">
+    Publications in <strong>ACS Sensors, IEEE Transactions on Instrumentation and Measurement, IEEE Sensors Journal, IEEE Access, Scientific Reports</strong>, and other peer-reviewed journals
+  </div>
+</div>
+
+<div style="margin-top: 12px; display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="text-align: justify; flex: 1;">
+    <strong>Best Doctoral Thesis Award nomination</strong>, NTNU, 2025
+  </div>
+</div>
+
+<div style="margin-top: 12px; display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="text-align: justify; flex: 1;">
+    <strong>Chancellor’s Gold Medal</strong> and <strong>Founder’s Gold Medal</strong>, KIIT University, India, 2010
+  </div>
+</div>
+
+## Current Research
+
+<p style="text-align: justify;">
+My current work centers on the design of selective and intelligent sensing systems that combine <strong>microwave and antenna-based sensing, molecularly imprinted materials, multi-sensor architectures, and data-driven signal processing</strong>. I am particularly interested in systems that connect <strong>communication, sensing, and machine learning</strong> in a unified framework for next-generation wireless and embedded platforms.
+</p>
+
+## Featured Publications
+
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
       <strong>Mohammad Mahmudul Hasan</strong>, Onur Alev, Pavel Skrabanek, Gabriela Soukupová, Fatima Hassouna, and Michael Cheffena Gebresilassie, “Microwave MIMO E-Nose for Wireless Communication and Selective Detection of VOC Mixtures with Concentration Estimation”, <strong>ACS Sensors</strong>, 2025.
@@ -102,374 +104,67 @@ I remain deeply grateful to my supervisors, Dr. Sudhansu Sekhar Singh, Dr. Micha
 
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
-      I. Khan, <strong>Mohammad Mahmudul Hasan</strong>, Michael Cheffena Gebresilassie, “A Novel Low-Complexity Peak-Power-Assisted Data-Aided Channel Estimation Scheme for MIMO-OFDM Wireless Systems”, <strong>IEEE Access</strong>, 2025.
+      <strong>Mohammad Mahmudul Hasan</strong>, T. Cowen, Onur Alev and Michael Cheffena Gebresilassie, “MIMO Microwave Sensor for Selective and Simultaneous Detection of Methanol and Ethanol Gases at Room Temperature”, <strong>IEEE Transactions on Instrumentation and Measurement</strong>, 2025.
     </div>
     <div style="margin-left: 20px;">(2025)</div>
   </div>
 
-
-
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
-      Onur Alev, <strong>Mohammad Mahmudul Hasan</strong>, E. T. Erruğrul, S. Birdoğan, O. Özdemir, E. Goldenberg and Michael Cheffena Gebresilassie, “Hydrothermally Synthesized Molybdenum disulfide Nanoflakes: Structural, Electrical, and Antenna-based Gas Sensing Characteristics”, <strong>Sensors & Actuators: A. Physical</strong>, 2025.
+      <strong>Mohammad Mahmudul Hasan</strong>, Onur Alev and Michael Cheffena Gebresilassie, “Dual-Functional Antenna Sensor for Highly Sensitive and Selective Detection of Isopropanol Gas Using Optimized Molecularly Imprinted Polymers”, <strong>ACS Sensors</strong>, 2025.
     </div>
     <div style="margin-left: 20px;">(2025)</div>
   </div>
 
-
-
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
-      <strong>Mohammad Mahmudul Hasan</strong>, T. Cowen, Onur Alev and Michael Cheffena Gebresilassie, “MIMO Microwave Sensor for Selective and Simultaneous Detection of Methanol and Ethanol Gases at Room Temperature,” <strong>IEEE Transactions on Instrumentation & Measurement</strong>, 2025 (Early Access).
-    </div>
-    <div style="margin-left: 20px;">(2025)</div>
-  </div>
-
-
-
-- <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <div style="text-align: justify; flex: 1;">
-      <strong>Mohammad Mahmudul Hasan</strong>, Onur Alev and Michael Cheffena Gebresilassie, “Dual-Functional Antenna Sensor for Highly Sensitive and Selective Detection of Isopropanol Gas Using Optimized Molecularly Imprinted Polymers,” <strong>ACS Sensors</strong>, 2025 (Early Access).
-    </div>
-    <div style="margin-left: 20px;">(2025)</div>
-  </div>
-
-
-
-- <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <div style="text-align: justify; flex: 1;">
-      <strong>Mohammad Mahmudul Hasan</strong>, Onur Alev, E. Goldenberg and Michael Cheffena Gebresilassie, “MoS2/MoOx Nanoflake-Based Dual-Functional Antenna Sensors for Highly Sensitive and Selective Detection of Volatile Organic Compounds,” <strong>ACS Applied Nano Materials</strong>, 7(21), pp. 25065–25077, 2024.
+      <strong>Mohammad Mahmudul Hasan</strong>, Onur Alev, E. Goldenberg and Michael Cheffena Gebresilassie, “MoS2/MoOx Nanoflake-Based Dual-Functional Antenna Sensors for Highly Sensitive and Selective Detection of Volatile Organic Compounds”, <strong>ACS Applied Nano Materials</strong>, 7(21), pp. 25065–25077, 2024.
     </div>
     <div style="margin-left: 20px;">(2024)</div>
   </div>
 
-
-
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="text-align: justify; flex: 1;">
-      <strong>Mohammad Mahmudul Hasan</strong>, T. Cowen and Michael Cheffena Gebresilassie, “A Novel Molecularly Imprinted Polymer-Based Carbon Nanotube-Coated Microwave Sensor for Selective Detection of Methanol Gas,” <strong>IEEE Sensors Letters</strong>, 8(5), 6004904, 2024.
-    </div>
-    <div style="margin-left: 20px;">(2024)</div>
-  </div>
-
-
-
-- <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <div style="text-align: justify; flex: 1;">
-      <strong>Mohammad Mahmudul Hasan</strong>, Onur Alev, E. Goldenberg and Michael Cheffena Gebresilassie, “A Novel Molybdenum Disulfide-Based High-Precision Microwave Sensor for Methanol Gas Detection at Room Temperature,” <strong>IEEE Microwave and Wireless Technology Letters</strong>, 34(6), pp. 691–694, 2024.
-    </div>
-    <div style="margin-left: 20px;">(2024)</div>
-  </div>
-
-
-
-- <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <div style="text-align: justify; flex: 1;">
-      <strong>Mohammad Mahmudul Hasan</strong>, Michael Cheffena Gebresilassie, “Adaptive Antenna Impedance Matching Using Low-Complexity Shallow Learning Model”, <strong>IEEE Access</strong>, II, pp. 74101–74111, 2023.
+      <strong>Mohammad Mahmudul Hasan</strong> and Michael Cheffena Gebresilassie, “Adaptive Antenna Impedance Matching Using Low-Complexity Shallow Learning Model”, <strong>IEEE Access</strong>, 2023.
     </div>
     <div style="margin-left: 20px;">(2023)</div>
   </div>
 
+<p style="text-align: justify; margin-top: 10px;">
+For a full list of publications, please visit the <a href="/publications/"><strong>Publications</strong></a> page.
+</p>
 
-
-- <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <div style="text-align: justify; flex: 1;">
-      <strong>Mohammad Mahmudul Hasan</strong>, Michael Cheffena Gebresilassie, S. Petrovic, “Physical-layer Security Improvement in MIMO OFDM Systems using Multilevel Chaotic Encryption”, <strong>IEEE Access</strong>, II, pp. 64468–64475, 2023.
-    </div>
-    <div style="margin-left: 20px;">(2023)</div>
-  </div>
-
-
-
-- <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <div style="text-align: justify; flex: 1;">
-      I. Khan, Michael Cheffena Gebresilassie, <strong>Mohammad Mahmudul Hasan</strong>, “Data Aided Channel Estimation for MIMO-OFDM Wireless Systems Using Reliable Carriers”, <strong>IEEE Access</strong>, II, pp. 47836–47847, 2023.
-    </div>
-    <div style="margin-left: 20px;">(2023)</div>
-  </div>
-
-
-
-- <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <div style="text-align: justify; flex: 1;">
-      <strong>Mohammad Mahmudul Hasan</strong>, M. M. Foad, “Modified Gamma Correction Companding for PAPR Reduction in OFDM Systems Considering Solid State Power Amplifier and Wireless Channels”, <strong>Circuits, Systems, and Signal Processing</strong>, 37(10), pp. 4431–4454, 2018.
-    </div>
-    <div style="margin-left: 20px;">(2018)</div>
-  </div>
-
-
-
-- <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <div style="text-align: justify; flex: 1;">
-      <strong>Mohammad Mahmudul Hasan</strong>, Mohammad Mahmudul Hasan Faisal (2016). “TGCC for PAPR Reduction in OFDM Systems over the Nonlinearity of SSPA and Wireless Fading Channels”, <strong>Circuits, Systems, and Signal Processing</strong>, 35(8), pp. 2855–2880, 2015.
-    </div>
-    <div style="margin-left: 20px;">(2015)</div>
-  </div>
-
-
-
-- <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <div style="text-align: justify; flex: 1;">
-      <strong>Mohammad Mahmudul Hasan</strong>, “PAR Reduction in SU/MU-MIMO OFDM Systems using OPF Precoding over the Nonlinearity of SSPA”, <strong>Wireless Personal Communications</strong>, 83(3), pp. 2225–2248, 2015.
-    </div>
-    <div style="margin-left: 20px;">(2015)</div>
-  </div>
-
-
-
-- <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <div style="text-align: justify; flex: 1;">
-      <strong>Mohammad Mahmudul Hasan</strong>, “A Novel CVM Precoding Scheme for PAPR Reduction in OFDM Transmissions”, <strong>Wireless Network</strong>, 20(6), pp. 1573-1581, 2014.
-    </div>
-    <div style="margin-left: 20px;">(2014)</div>
-  </div>
-
-
-
-- <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <div style="text-align: justify; flex: 1;">
-      <strong>Mohammad Mahmudul Hasan</strong>, “A New PAPR Reduction Scheme for OFDM Systems Based on Gamma Correction”, <strong>Circuits, Systems, and Signal Processing</strong>, 33(5), pp. 1655-1668, 2014.
-    </div>
-    <div style="margin-left: 20px;">(2014)</div>
-  </div>
-
-
-
-- <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <div style="text-align: justify; flex: 1;">
-      <strong>Mohammad Mahmudul Hasan</strong>, “A New PAPR Reduction Technique in OFDM Systems Using Linear Predictive Coding”, <strong>Wireless Personal Communications</strong>, 75(1), pp. 707-721, 2014.
-    </div>
-    <div style="margin-left: 20px;">(2014)</div>
-  </div>
-
-
-
-- <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <div style="text-align: justify; flex: 1;">
-      <strong>Mohammad Mahmudul Hasan</strong>, “VLM Precoded SLM Technique for PAPR Reduction in OFDM Systems”, <strong>Wireless Personal Communications</strong>, 73(3), pp. 791-801, 2013.
-    </div>
-    <div style="margin-left: 20px;">(2013)</div>
-  </div>
-
-
-
-- <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <div style="text-align: justify; flex: 1;">
-      <strong>Mohammad Mahmudul Hasan</strong>, “PAPR Reduction in OFDM Systems Based on Autoregressive Filtering”, <strong>Circuits, Systems, and Signal Processing</strong>, 33(5), pp. 1637-1654, 2013.
-    </div>
-    <div style="margin-left: 20px;">(2013)</div>
-  </div>
-
-
-
-## Work Experience
+## Academic Background
 
 <div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
-  <span><strong>University of Information Technology and Science, Bangladesh</strong></span>
-  <span>01.2011 – Present</span>
+  <span><strong>Norwegian University of Science and Technology (NTNU), Norway</strong></span>
+  <span>2022 – 2025</span>
 </div>
-<div style="display: flex; justify-content: space-between;">
-  <span><em>Associate Professor, Electrical and Electronic Engineering</em></span>
-  <span>07.2025 – Present</span>
-</div>
-<div style="display: flex; justify-content: space-between;">
-  <span><em>Assistant Professor, Electrical and Electronic Engineering</em></span>
-  <span>01.2011 – 06.2025</span>
-</div>
-
-<div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
-  <span><strong>Norwegian University of Science and Technology, Norway</strong></span>
-  <span>05.2022 – 06.2025</span>
-</div>
-<div style="display: flex; justify-content: space-between;">
-  <span><em>Fellow Researcher, Faculty of Engineering</em></span>
-  <span></span>
-</div>
-
-<div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
-  <span><strong>Brno University of Technology (VUT), Czech Republicy</strong></span>
-  <span>08.2024 – 01.2025</span>
-</div>
-<div style="display: flex; justify-content: space-between;">
-  <span><em>Visiting Research Fellow, Department of Automation</em></span>
-  <span></span>
-</div>
+<p style="margin: 5px 0 10px 0;">
+  <em>Doctor of Philosophy in Information and Communication Technology</em><br>
+  Faculty of Engineering
+</p>
 
 <div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
   <span><strong>KIIT University, India</strong></span>
-  <span>02.2009 – 12.2010</span>
+  <span>2008 – 2010</span>
 </div>
-<div style="display: flex; justify-content: space-between;">
-  <span><em>Assistant Professor, Electronics and Telecommunication Engineering</em></span>
-  <span>02.2009 – 12.2010</span>
-</div>
-<div style="display: flex; justify-content: space-between;">
-  <span><em>Teaching Assistant, Electronics and Telecommunication Engineering</em></span>
-  <span>07.2010 – 12.2010</span>
-</div>
-
----
-
-## Academic Leadership and Professional Service
+<p style="margin: 5px 0 10px 0;">
+  <em>Master of Technology in Communication Systems Engineering</em><br>
+  Department of Electronics and Telecommunication Engineering
+</p>
 
 <div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
-  <span><strong>University of Information Technology and Science, Bangladesh</strong></span>
-  <span>01.2011 – Present</span>
+  <span><strong>KIIT University, India</strong></span>
+  <span>2004 – 2008</span>
 </div>
-<div style="display: flex; justify-content: space-between;">
-  <span><em>Advisor, Information and Communication Technology Cell</em></span>
-  <span>01.2018 – Present</span>
-</div>
-<div style="display: flex; justify-content: space-between;">
-  <span><em>Head of the Department, Electronics and Communication Engineering</em></span>
-  <span>02.2019 – 04.2022</span>
-</div>
-<div style="display: flex; justify-content: space-between;">
-  <span><em>Director, Information and Communication Technology Cell</em></span>
-  <span>12.2020 – 04.2022</span>
-</div>
-<div style="display: flex; justify-content: space-between;">
-  <span><em>Member, Internal Quality Assurance Cell (IQAC)</em></span>
-  <span>07.2017 – 07.2018</span>
-</div>
-<div style="display: flex; justify-content: space-between;">
-  <span><em>Editorial Board Member, Journal of Science and Engineering</em></span>
-  <span>10.2020 – 04.2022</span>
-</div>
-<div style="display: flex; justify-content: space-between;">
-  <span><em>Member, Finance Committee</em></span>
-  <span>03.2020 – 04.2022</span>
-</div>
-<div style="display: flex; justify-content: space-between;">
-  <span><em>Member, Academic Council</em></span>
-  <span>02.2019 – 04.2022</span>
-</div>
+<p style="margin: 5px 0 10px 0;">
+  <em>Bachelor of Technology in Electronics and Telecommunication Engineering</em><br>
+  Department of Electronics and Telecommunication Engineering
+</p>
 
-<div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
-  <span><strong>Sanyo Engineering &amp; Construction Inc., Japan</strong></span>
-  <span>04.2018 – 01.2019</span>
-</div>
-<div style="display: flex; justify-content: space-between;">
-  <span><em>Consultant and Technical Trainer, BJIT Limited, Bangladesh</em></span>
-  <span></span>
-</div>
+## Collaboration
 
----
-
-
-## Honors and Awards
-
-<div style="margin-top: 20px; display: flex; justify-content: space-between;">
-  <span style="flex: 1; padding-right: 20px;"><strong>Research Recognition</strong></span>
-  <span style="white-space: nowrap; flex-shrink: 0;">2025</span>
-</div>
-<div>
-  Nominated for Best Doctoral Thesis in Sensors
-</div>
-
-<div style="margin-top: 20px; display: flex; justify-content: space-between;">
-  <span style="flex: 1; padding-right: 20px;"><strong>Research Grant</strong></span>
-  <span style="white-space: nowrap; flex-shrink: 0;">2024</span>
-</div>
-<div>
-  Awarded 146,000 NOK, Research Council of Norway
-</div>
-
-<div style="margin-top: 20px; display: flex; justify-content: space-between;">
-  <span style="flex: 1; padding-right: 20px;"><strong>Chancellor’s Gold Medal</strong></span>
-  <span style="white-space: nowrap; flex-shrink: 0;">2010</span>
-</div>
-<div>
-  Awarded for securing the highest CGPA (10.0/10.0), KIIT University, India
-</div>
-
-<div style="margin-top: 20px; display: flex; justify-content: space-between;">
-  <span style="flex: 1; padding-right: 20px;"><strong>Founder’s Gold Medal</strong></span>
-  <span style="white-space: nowrap; flex-shrink: 0;">2010</span>
-</div>
-<div style="padding-right: 120px;">
-  Awarded for securing first position in the Master of Technology program, KIIT University, India
-</div>
-
-<div style="margin-top: 20px; display: flex; justify-content: space-between;">
-  <span style="flex: 1; padding-right: 20px;"><strong>Chancellor’s Merit Scholarship</strong></span>
-  <span style="white-space: nowrap; flex-shrink: 0;">2004–2010</span>
-</div>
-<div style="padding-right: 120px;">
-  Awarded for academic excellence during Bachelor’s and Master’s studies, KIIT University, India
-</div>
-
----
-
-## Research Projects
-
-<div style="margin-top: 20px; display: flex; justify-content: space-between;">
-  <span style="flex: 1; padding-right: 20px;"><strong>Machine Learning Assisted Signal Processing for Antenna-Sensor Array (MLSP-ASA)</strong></span>
-  <span style="white-space: nowrap; flex-shrink: 0;">2024–2025</span>
-</div>
-<div>
-  Member, Research Council of Norway (Project No. 353890)
-</div>
-
-<div style="margin-top: 20px; display: flex; justify-content: space-between;">
-  <span style="flex: 1; padding-right: 20px;"><strong>Air Quality Monitoring Exploiting Massive Multiple-Input Multiple-Output Antennas (AQMA)</strong></span>
-  <span style="white-space: nowrap; flex-shrink: 0;">2022–2025</span>
-</div>
-<div>
-  Member, Research Council of Norway (Project No. 324061)
-</div>
-
----
-
-## Professional Certifications
-
-<div style="margin-top: 20px; display: flex; justify-content: space-between;">
-  <span style="flex: 1; padding-right: 20px;"><strong>Brno University of Technology, Czech Republic</strong></span>
-  <span style="white-space: nowrap; flex-shrink: 0;">08.2024–01.2025</span>
-</div>
-<div>
-  Professional Competence, Electrical Engineering (86) – NV No. 194/2022 Coll.
-</div>
-
-<div style="margin-top: 20px; display: flex; justify-content: space-between;">
-  <span style="flex: 1; padding-right: 20px;"><strong>GrameenPhone Ltd., Bangladesh</strong></span>
-  <span style="white-space: nowrap; flex-shrink: 0;">07.2007–10.2007</span>
-</div>
-<div>
-  Intern Engineer, Transmission Planning Division
-</div>
-
-<div style="margin-top: 20px; display: flex; justify-content: space-between;">
-  <span style="flex: 1; padding-right: 20px;"><strong>All India Radio & Doordarshan (Prasar Bharati), India</strong></span>
-  <span style="white-space: nowrap; flex-shrink: 0;">05.2007–07.2007</span>
-</div>
-<div>
-  Industrial Training, Broadcasting Corporation of India
-</div>
-
-<div style="margin-top: 20px; display: flex; justify-content: space-between;">
-  <span style="flex: 1; padding-right: 20px;"><strong>Red Hat Bhubaneswar, India</strong></span>
-  <span style="white-space: nowrap; flex-shrink: 0;">04.2006–07.2006</span>
-</div>
-<div>
-  Industrial Training, Red Hat Linux RHEL 4
-</div>
-
----
-
-
-
-<script>
-function toggleMore() {
-  var content = document.getElementById("read-more");
-  var link = document.querySelector("a[onclick='toggleMore()']");
-  
-  if (content.style.display === "none") {
-    content.style.display = "block";
-    link.textContent = "... Hide more";
-  } else {
-    content.style.display = "none";
-    link.textContent = "Read more ...";
-  }
-}
-</script>
+<p style="text-align: justify;">
+I welcome collaboration in <strong>wireless communication, RF and microwave sensing, signal processing, intelligent sensor systems, and machine learning for sensing and communication</strong>. If your interests overlap with these areas, please feel free to get in touch through the <a href="/contact/"><strong>Contact</strong></a> page.
+</p>
