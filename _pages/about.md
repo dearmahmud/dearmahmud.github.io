@@ -216,4 +216,3 @@ For a full list of publications, please visit the <a href="/publications/">Publi
 <p style="text-align: justify;">
 I welcome collaboration in wireless communication, RF and microwave sensing, signal processing, intelligent sensor systems, and machine learning for sensing and communication. If your interests overlap with these areas, please feel free to get in touch through the <a href="/contact/">Contact</a> page.
 </p>
-``
