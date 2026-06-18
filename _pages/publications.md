@@ -152,6 +152,9 @@ author_profile: true
     <div style="margin-left: 20px;">(2013)</div>
   </div>
 
-<p style="text-align: justify; margin-top: 10px;">
-For a full list of publications, please visit the <a href="https://scholar.google.com/citations?hl=en&user=8ZDDF8MAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar Profile</a>.
+<p style="text-align: right; margin-top: 10px;">
+  For a full list of publications, please visit the
+  <a href="https://scholar.google.com/citations?hl=en&user=8ZDDF8MAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">
+    Google Scholar Profile
+  </a>.
 </p>
