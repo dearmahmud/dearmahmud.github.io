@@ -329,6 +329,10 @@ I remain deeply grateful to my supervisors, Dr. Sudhansu Sekhar Singh, Dr. Micha
   <span>12.2020 – 04.2022</span>
 </div>
 <div style="display: flex; justify-content: space-between;">
+  <span><em>Member, Internal Quality Assurance Cell (IQAC)</em></span>
+  <span>07.2017 – 07.2018</span>
+</div>
+<div style="display: flex; justify-content: space-between;">
   <span><em>Editorial Board Member, Journal of Science and Engineering</em></span>
   <span>10.2020 – 04.2022</span>
 </div>
@@ -339,10 +343,6 @@ I remain deeply grateful to my supervisors, Dr. Sudhansu Sekhar Singh, Dr. Micha
 <div style="display: flex; justify-content: space-between;">
   <span><em>Member, Academic Council</em></span>
   <span>02.2019 – 04.2022</span>
-</div>
-<div style="display: flex; justify-content: space-between;">
-  <span><em>Member, Internal Quality Assurance Cell (IQAC)</em></span>
-  <span>07.2017 – 07.2018</span>
 </div>
 
 <div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
