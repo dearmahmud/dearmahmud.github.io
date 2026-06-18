@@ -221,27 +221,11 @@ redirect_from:
 </div>
 <div style="display: flex; justify-content: space-between;">
   <span><em>Associate Professor, Electrical and Electronic Engineering</em></span>
-  <span>01.2011 – Present</span>
+  <span>07.2025 – Present</span>
 </div>
 <div style="display: flex; justify-content: space-between;">
-  <span><em>Head of the Department, Electronics and Communication Engineering</em></span>
-  <span>01.2011 – 04.2022</span>
-</div>
-<div style="display: flex; justify-content: space-between;">
-  <span><em>Director, Information and Communication Technology Cell</em></span>
-  <span>02.2019 – 04.2022</span>
-</div>
-<div style="display: flex; justify-content: space-between;">
-  <span><em>Editorial Board Member, Journal of Science and Engineering</em></span>
-  <span>12.2020 – 04.2022</span>
-</div>
-<div style="display: flex; justify-content: space-between;">
-  <span><em>Project Manager, Enterprise Resource Planning</em></span>
-  <span>10.2020 – 04.2022</span>
-</div>
-<div style="display: flex; justify-content: space-between;">
-  <span><em>Advisor, Information and Communication Technology Cell</em></span>
-  <span>03.2020 – 04.2022</span>
+  <span><em>Assistant Professor, Electrical and Electronic Engineering</em></span>
+  <span>01.2011 – 06.2025</span>
 </div>
 
 <div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
@@ -262,16 +246,6 @@ redirect_from:
   <span></span>
 </div>
 
-
-<div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
-  <span><strong>Sanyo Engineering & Construction Inc., Japan</strong></span>
-  <span>04.2018 – 01.2019</span>
-</div>
-<div style="display: flex; justify-content: space-between;">
-  <span><em>Industrial Trainer, BJIT Limited, Bangladesh</em></span>
-  <span></span>
-</div>
-
 <div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
   <span><strong>KIIT University, India</strong></span>
   <span>02.2009 – 12.2010</span>
@@ -283,6 +257,52 @@ redirect_from:
 <div style="display: flex; justify-content: space-between;">
   <span><em>Teaching Assistant, Electronics and Telecommunication Engineering</em></span>
   <span>07.2010 – 12.2010</span>
+</div>
+
+---
+
+## Academic Leadership and Professional Service
+
+<div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
+  <span><strong>University of Information Technology and Science, Bangladesh</strong></span>
+  <span>01.2011 – Present</span>
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <span><em>Advisor, Information and Communication Technology Cell</em></span>
+  <span>01.2018 – Present</span>
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <span><em>Head of the Department, Electronics and Communication Engineering</em></span>
+  <span>02.2019 – 04.2022</span>
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <span><em>Director, Information and Communication Technology Cell</em></span>
+  <span>12.2020 – 04.2022</span>
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <span><em>Member, Internal Quality Assurance Cell (IQAC)</em></span>
+  <span>07.2017 – 07.2018</span>
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <span><em>Editorial Board Member, Journal of Science and Engineering</em></span>
+  <span>10.2020 – 04.2022</span>
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <span><em>Member, Finance Committee</em></span>
+  <span>03.2020 – 04.2022</span>
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <span><em>Member, Academic Council</em></span>
+  <span>02.2019 – 04.2022</span>
+</div>
+
+<div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
+  <span><strong>Sanyo Engineering &amp; Construction Inc., Japan</strong></span>
+  <span>04.2018 – 01.2019</span>
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <span><em>Consultant and Technical Trainer, BJIT Limited, Bangladesh</em></span>
+  <span></span>
 </div>
 
 ---
