@@ -19,11 +19,11 @@ I am Mohammad Mahmudul Hasan, Associate Professor in the Department of Electrica
 </p>
 
 <div style="margin-top: 20px; margin-bottom: 20px; text-align: center;">
-  <a href="/resume/" style="text-decoration: none; margin: 0 12px;">**Resume**</a>
-  <a href="/publications/" style="text-decoration: none; margin: 0 12px;">**Publications**</a>
-  <a href="/research/" style="text-decoration: none; margin: 0 12px;">**Research**</a>
-  <a href="/teaching/" style="text-decoration: none; margin: 0 12px;">**Teaching**</a>
-  <a href="/contact/" style="text-decoration: none; margin: 0 12px;">**Contact**</a>
+  <a href="/resume/" style="text-decoration: none; margin: 0 12px;"><strong>Resume</strong></a>
+  <a href="/publications/" style="text-decoration: none; margin: 0 12px;"><strong>Publications</strong></a>
+  <a href="/research/" style="text-decoration: none; margin: 0 12px;"><strong>Research</strong></a>
+  <a href="/teaching/" style="text-decoration: none; margin: 0 12px;"><strong>Teaching</strong></a>
+  <a href="/contact/" style="text-decoration: none; margin: 0 12px;"><strong>Contact</strong></a>
 </div>
 
 ## Research Areas
