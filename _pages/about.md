@@ -10,7 +10,7 @@ redirect_from:
 <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap" rel="stylesheet">
 
 <p style="text-align: justify;">
-<span style="font-family: 'Great Vibes', cursive; font-size: 2.4em; line-height: 1.2;">
+<span style="font-family: 'Great Vibes', cursive; font-size: 2.0em; line-height: 1.2;">
 Welcome to my academic portfolio.
 </span>
 
