@@ -11,7 +11,7 @@ redirect_from:
 
 <p style="text-align: justify;">
 <span style="font-family: 'Great Vibes', cursive; font-size: 2.0em; line-height: 1.2;">
-Welcome to my academic portfolio.
+Welcome to my academic portfolio ...
 </span>
 
 <br><br>
