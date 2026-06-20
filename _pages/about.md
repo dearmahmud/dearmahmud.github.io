@@ -183,7 +183,7 @@ For a full list of publications, please visit the <a href="/publications/">Publi
   Department of Electronics and Telecommunication Engineering
 </p>
 
-## Research Projects
+## Research Projects and Initiatives
 
 <div style="margin-top: 20px; display: flex; justify-content: space-between;">
   <span style="flex: 1; padding-right: 20px;">Machine Learning Assisted Signal Processing for Antenna-Sensor Arrays</span>
