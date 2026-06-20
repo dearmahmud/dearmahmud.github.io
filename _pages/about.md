@@ -2,15 +2,18 @@
 permalink: /
 title: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
+<link href="https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap" rel="stylesheet">
+
 <p style="text-align: justify;">
-<span style="font-family: 'Brush Script MT', cursive; font-size: 1.8em;">
+<span style="font-family: 'Great Vibes', cursive; font-size: 2.4em; line-height: 1.2;">
 Welcome to my academic portfolio.
 </span>
+
 <br><br>
 
 I am <em>Mohammad Mahmudul Hasan</em>, Associate Professor in the Department of Electrical and Electronic Engineering at the University of Information Technology and Sciences (UITS), Bangladesh. My research brings together wireless communication, RF and microwave sensing, machine learning techniques, antenna systems, and integrated sensing and communication. Over the past 17 years, I have had the privilege of teaching, conducting research, and supervising students across Bangladesh, India, Norway, Japan, and the Czech Republic.
