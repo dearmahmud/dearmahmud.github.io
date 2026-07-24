@@ -360,6 +360,14 @@ I have also contributed to several funded research and institutional projects. T
 ## Research Projects and Initiatives
 
 <div style="margin-top: 20px; display: flex; justify-content: space-between;">
+  <span style="flex: 1; padding-right: 20px;"><strong>Multi-sector and Interdisciplinary Cooperation in Research and Development of Communication, Information and Detection Technologies for Control and Signaling Systems (CIDET)</strong></span>
+  <span style="white-space: nowrap; flex-shrink: 0;">2026–Present</span>
+</div>
+<div>
+  Researcher / Project Member, European Union / OP JAK, University of Pardubice (Project No. CZ.02.01.01/00/23_021/0008402)
+</div>
+
+<div style="margin-top: 20px; display: flex; justify-content: space-between;">
   <span style="flex: 1; padding-right: 20px;"><strong>Machine Learning Assisted Signal Processing for Antenna-Sensor Arrays</strong></span>
   <span style="white-space: nowrap; flex-shrink: 0;">2024–2025</span>
 </div>
