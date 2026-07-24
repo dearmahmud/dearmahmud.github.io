@@ -40,6 +40,9 @@ My current research focuses on deployable integrated sensing and communication s
 
 ## Research Projects and Funding
 
+- **Multi-sector and Interdisciplinary Cooperation in Research and Development of Communication, Information and Detection Technologies for Control and Signaling Systems (CIDET)**  
+  European Union / OP JAK, University of Pardubice, Project No. CZ.02.01.01/00/23_021/0008402 (2026–Present)
+
 - **Machine Learning Assisted Signal Processing for Antenna-Sensor Arrays (MLSP-ASA)**  
   Research Council of Norway, Project No. 353890 (2024–2025)
 
