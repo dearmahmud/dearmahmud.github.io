@@ -178,36 +178,46 @@ For a full list of publications, please visit the <a href="/publications/">Publi
 ## Research Projects and Initiatives
 
 <div style="margin-top: 20px; display: flex; justify-content: space-between;">
-  <span style="flex: 1; padding-right: 20px;">Machine Learning Assisted Signal Processing for Antenna-Sensor Arrays</span>
+  <span style="flex: 1; padding-right: 20px;"><strong>Multi-sector and Interdisciplinary Cooperation in Research and Development of Communication, Information and Detection Technologies for Control and Signaling Systems (CIDET)</strong></span>
+  <span style="white-space: nowrap; flex-shrink: 0;">2026–Present</span>
+</div>
+<div>
+  Researcher / Project Member, European Union / OP JAK, University of Pardubice (Project No. CZ.02.01.01/00/23_021/0008402)
+</div>
+
+<div style="margin-top: 20px; display: flex; justify-content: space-between;">
+  <span style="flex: 1; padding-right: 20px;"><strong>Machine Learning Assisted Signal Processing for Antenna-Sensor Arrays</strong></span>
   <span style="white-space: nowrap; flex-shrink: 0;">2024–2025</span>
 </div>
 <div>
-  <em>Work Package Member</em>, The Research Council of Norway (Project No. 353890)
+  Work Package Member, The Research Council of Norway (Project No. 353890)
 </div>
 
 <div style="margin-top: 20px; display: flex; justify-content: space-between;">
-  <span style="flex: 1; padding-right: 20px;">Air Quality Monitoring Exploiting Massive Multiple-Input Multiple-Output Antennas</span>
+  <span style="flex: 1; padding-right: 20px;"><strong>Air Quality Monitoring Exploiting Massive Multiple-Input Multiple-Output Antennas</strong></span>
   <span style="white-space: nowrap; flex-shrink: 0;">2022–2025</span>
 </div>
 <div>
-  <em>Work Package Member</em>, The Research Council of Norway (Project No. 324061)
+  Work Package Member, The Research Council of Norway (Project No. 324061)
 </div>
 
 <div style="margin-top: 20px; display: flex; justify-content: space-between;">
-  <span style="flex: 1; padding-right: 20px;">University Comprehensive Academic Management Software Implementation Project</span>
+  <span style="flex: 1; padding-right: 20px;"><strong>University Comprehensive Academic Management Software Implementation Project</strong></span>
   <span style="white-space: nowrap; flex-shrink: 0;">2020–2022</span>
 </div>
 <div>
-  <em>Project Manager</em>, University of Information Technology and Sciences (UITS)
+  Project Manager, University of Information Technology and Sciences (UITS)
 </div>
 
 <div style="margin-top: 20px; display: flex; justify-content: space-between;">
-  <span style="flex: 1; padding-right: 20px;">Higher Education Quality Enhancement Project (HEQEP)</span>
+  <span style="flex: 1; padding-right: 20px;"><strong>Higher Education Quality Enhancement Project (HEQEP)</strong></span>
   <span style="white-space: nowrap; flex-shrink: 0;">2017–2018</span>
 </div>
 <div>
-  <em>Member</em>, University Grants Commission, Bangladesh and the World Bank
+  Member, University Grants Commission, Bangladesh and the World Bank
 </div>
+
+---
 
 ## Collaboration
 
