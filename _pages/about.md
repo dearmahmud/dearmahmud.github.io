@@ -178,7 +178,7 @@ For a full list of publications, please visit the <a href="/publications/">Publi
 ## Research Projects and Initiatives
 
 <div style="margin-top: 20px; display: flex; justify-content: space-between;">
-  <span style="flex: 1; padding-right: 20px;"><strong>Multi-sector and Interdisciplinary Cooperation in Research and Development of Communication, Information and Detection Technologies for Control and Signaling Systems (CIDET)</strong></span>
+  <span style="flex: 1; padding-right: 20px;"><strong>Communication, Information and Detection Technologies for Control and Signalling Systems (CIDET)</strong></span>
   <span style="white-space: nowrap; flex-shrink: 0;">2026–Present</span>
 </div>
 <div>
