@@ -40,7 +40,7 @@ My current research focuses on deployable integrated sensing and communication s
 
 ## Research Projects and Funding
 
-- **Multi-sector and Interdisciplinary Cooperation in Research and Development of Communication, Information and Detection Technologies for Control and Signaling Systems (CIDET)**  
+- **Communication, Information and Detection Technologies for Control and Signalling Systems (CIDET)**  
   European Union (Project No. CZ.02.01.01/00/23_021/0008402)
 
 - **Machine Learning Assisted Signal Processing for Antenna-Sensor Arrays (MLSP-ASA)**  
