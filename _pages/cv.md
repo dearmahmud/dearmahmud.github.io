@@ -364,7 +364,7 @@ I have also contributed to several funded research and institutional projects. T
   <span style="white-space: nowrap; flex-shrink: 0;">2026–Present</span>
 </div>
 <div>
-  Researcher / Project Member, European Union / OP JAK, University of Pardubice (Project No. CZ.02.01.01/00/23_021/0008402)
+  Project Member, European Union (Project No. CZ.02.01.01/00/23_021/0008402)
 </div>
 
 <div style="margin-top: 20px; display: flex; justify-content: space-between;">
