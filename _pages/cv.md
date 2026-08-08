@@ -221,9 +221,6 @@ I have contributed to several funded research and institutional projects. These 
   </div>
 
 
-
-## Work Experience
-
 ## Work Experience
 
 <div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
