@@ -15,37 +15,42 @@ Welcome to my academic portfolio
 </span>
 
 <br><br>
-I am Mohammad Mahmudul Hasan, Associate Professor in the Department of Electrical and Electronic Engineering at the University of Information Technology and Sciences (UITS), Bangladesh. My research brings together wireless communication, RF and microwave sensing and systems, machine learning, and integrated sensing and communication. Over the past 17 years, I have had the opportunity to work across Bangladesh, India, Norway, Japan, and the Czech Republic, engaging in research, teaching, and student supervision in a range of academic and industrial environments. I have been fortunate to collaborate with inspiring scholars and contribute to impactful research projects. Please feel free to reach out if you have any questions or would like to explore opportunities for collaboration.
+I am Mohammad Mahmudul Hasan, a researcher at the University of Pardubice and an Associate Professor in the Department of Electrical and Electronic Engineering at the University of Information Technology and Sciences (UITS), Bangladesh. My research brings together wireless communication, RF and microwave sensing and systems, machine learning, and integrated sensing and communication. Over the past 17 years, I have had the opportunity to work across Bangladesh, India, Norway, Japan, and the Czech Republic, engaging in research, teaching, and student supervision in a range of academic and industrial environments. I have been fortunate to collaborate with inspiring scholars and contribute to impactful research projects. Please feel free to reach out if you have any questions or would like to explore opportunities for collaboration.
 </p>
 
 ## Research Areas
 
 <ul style="text-align: justify; margin-top: 10px;">
-  <li>Wireless communication systems and 5G/6G networks</li>
-  <li>Integrated sensing and communication</li>
-  <li>RF and microwave sensing</li>
-  <li>Multi-antenna and MIMO systems</li>
-  <li>Machine learning for wireless and sensing systems</li>
-  <li>Intelligent sensing technologies</li>
+  <li>Wireless communication systems, MIMO-OFDM, and 5G/6G networks</li>
+  <li>Integrated sensing and communication (ISAC)</li>
+  <li>RF, microwave, and radar sensing</li>
+  <li>Object detection, localization, classification, and tracking</li>
+  <li>Antenna-sensor systems, MIMO arrays, and microwave circuits</li>
+  <li>Signal processing, SDR/USRP experimentation, and measurement validation</li>
+  <li>Machine learning, federated learning, and RF-vision fusion for sensing systems</li>
+  <li>Intelligent sensing technologies for environmental monitoring, infrastructure, and wireless systems</li>
 </ul>
 
 ## Selected Highlights
 
 <ul style="text-align: justify; margin-top: 10px;">
-  <li>More than 17 years of experience in teaching, research, and supervision of over 250 undergraduate and postgraduate students</li>
-  <li>PhD in Information and Communication Technology, Norwegian University of Science and Technology (NTNU), Norway, 2025</li>
+  <li>Researcher at the University of Pardubice (UPCE), Czech Republic, working on radar sensing, RF-based detection, localization, signal processing, and AI-assisted communication and detection technologies</li>
+  <li>Associate Professor in Electrical and Electronic Engineering at UITS, Bangladesh, with more than 17 years of experience in teaching, research, supervision, and academic leadership</li>
+  <li>PhD in Information and Communication Technology from the Norwegian University of Science and Technology (NTNU), Norway, 2025</li>
   <li>PhD thesis nominated for the Best Doctoral Thesis in Sensors at NTNU, 2025</li>
-  <li>Research Fellow at NTNU and Visiting Research Fellow at Brno University of Technology, Czech Republic, during 2022–2025</li>
-  <li>Recipient of prestigious and competitive research grants from the Research Council of Norway, 2024</li>
-  <li>Work Package Member in Research Council of Norway-funded projects on machine learning-assisted antenna-sensor arrays and air-quality monitoring using massive MIMO systems</li>
-  <li>More than 35 peer-reviewed publications in journals including <em>ACS Sensors</em>, <em>IEEE Transactions on Instrumentation and Measurement</em>, <em>IEEE Sensors Journal</em>, <em>Scientific Reports</em>, <em>ACS Applied Nano Materials</em>, and <em>IEEE Access</em></li>
-  <li>Recipient of the Chancellor’s Gold Medal, Founder’s Gold Medal, and Chancellor’s Merit Scholarship, KIIT University, India</li>
+  <li>Research experience across Norway, the Czech Republic, Bangladesh, India, and Japan, including NTNU, UPCE, VUT, UITS, KIIT, and SUNTEC Japan</li>
+  <li>Research focus in RF and microwave sensing, radar sensing, ISAC, MIMO-OFDM systems, antenna-sensor platforms, localization, RF-vision fusion, federated learning, and machine-learning-assisted signal processing</li>
+  <li>Project Member in CIDET at UPCE, focused on communication, information, and detection technologies for control and signalling systems</li>
+  <li>Work Package Member in Research Council of Norway-funded projects on machine-learning-assisted antenna-sensor arrays and air-quality monitoring using massive MIMO systems</li>
+  <li>Recipient of a competitive Research Council of Norway research grant in 2024</li>
+  <li>Author of 35+ peer-reviewed publications in IEEE, ACS, Springer, Elsevier, Scientific Reports, and related venues</li>
+  <li>Recipient of the Chancellor’s Gold Medal, Founder’s Gold Medal, and Chancellor’s Merit Scholarship from KIIT University, India</li>
 </ul>
 
 ## Current Research
 
 <p style="text-align: justify;">
-My current work centers on the design of selective and intelligent sensing systems that combine microwave and antenna-based sensing, molecularly imprinted materials, multi-sensor architectures, and data-driven signal processing. I am particularly interested in systems that connect communication, sensing, and machine learning in a unified framework for next-generation wireless and embedded platforms.
+Currently, I am working as a Researcher at the University of Pardubice in the research team of Dr. Tomáš Zálabský. The team conducts application-oriented research on modern radar systems and components, including radar signal processing, object detection, localization, identification, classification, antenna systems, microwave circuits, DSP/FPGA-related implementation, and GNSS-related applications. This current work strengthens my research direction in RF/radar sensing, localization, AI-assisted detection, and practical communication and detection technologies.
 </p>
 
 ## Selected Publications
