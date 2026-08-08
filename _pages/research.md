@@ -33,8 +33,8 @@ Machine learning in my work is mainly used as a practical inference layer built 
 ---
 
 ## Current Research Direction
-<p style="text-align: justify;"> 
-My current research focuses on deployable integrated sensing and communication systems for future wireless infrastructure. One major direction involves replacing bulky VNA-based RF sensing systems with compact on-chip RF readout architectures that are more suitable for scalable deployment. Another direction involves combining RF sensing with computer vision and multimodal inference to improve robustness and semantic awareness in complex environments. I am also interested in UAV-assisted ISAC systems for applications such as traffic monitoring, environmental sensing, disaster response, and infrastructure-limited communication. More broadly, I am interested in how future wireless networks can evolve from passive communication infrastructure into intelligent distributed sensing systems capable of interacting with their physical environment in real time.
+<p style="text-align: justify;">
+My current research focuses on RF, radar, and wireless sensing systems that combine communication, localization, detection, signal processing, and machine learning on shared RF infrastructure. At the University of Pardubice, I work on radar sensing, RF-based detection, object localization and classification, antenna and microwave systems, and AI-assisted communication and detection technologies. I am especially interested in deployable ISAC systems, compact RF readout architectures, SDR/USRP-based experimentation, RF-vision fusion, federated sensing, and UAV-assisted wireless platforms. My broader goal is to help future wireless networks move beyond passive data transmission and become intelligent sensing infrastructure that can observe, interpret, and respond to the physical environment in real time.
 </p>
 ---
 
